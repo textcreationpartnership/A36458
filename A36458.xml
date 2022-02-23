@@ -1,0 +1,3542 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Roman generalls, or, The distressed ladies by J.D. of Grayes-Inn, Gent.</title>
+            <author>J. D. (John Dover), 1644?-1725.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 119 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36458</idno>
+            <idno type="STC">Wing D2053</idno>
+            <idno type="STC">ESTC R3213</idno>
+            <idno type="EEBO-CITATION">12244797</idno>
+            <idno type="OCLC">ocm 12244797</idno>
+            <idno type="VID">56904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 141:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Roman generalls, or, The distressed ladies by J.D. of Grayes-Inn, Gent.</title>
+                  <author>J. D. (John Dover), 1644?-1725.</author>
+               </titleStmt>
+               <extent>[6], 52, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Herrick, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: J. Dover.</note>
+                  <note>"Licensed Novemb. 7, 1667. Roger L'Estrange"</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56904:1"/>
+            <pb facs="tcp:56904:1" rendition="simple:additions"/>
+            <p>THE Roman Generalls: OR THE DISTRESSED LADIES.</p>
+            <p>By <hi>J. D.</hi> of <hi>Grayes-Inn,</hi> Gent.</p>
+            <q>
+               <p>Quis Martem Tunica tectum adamantina Dignè ſcripſerit?</p>
+               <bibl>
+                  <hi>Horat. Ode 6.</hi>
+               </bibl>
+            </q>
+            <p>LICENSED,</p>
+            <p>
+               <hi>Novemb.</hi> 7. 1667.</p>
+            <p>
+               <hi>Roger L'Eſtrange.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Herrick,</hi> and are to be ſold at his Shop at <hi>Grayes</hi>-Inn-Gate in <hi>Holborn.</hi> 1667.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:56904:2"/>
+            <pb facs="tcp:56904:2"/>
+            <head>To the Right Honourable ROBERT Lord BROOK, Baron <hi>Brook</hi> of <hi>Beauchamp</hi>-Court, Lord Lieu<g ref="char:EOLhyphen"/>tenant of <hi>Staffordſhire.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>Roman Generalls</hi> humbly begg, that They may walk abroad under Your Honourable Protection; It being as dangerous for a Poem to appear in Publick without a good Patron, as it would be for a Ship richly fraught, to ſail among Pirats without a Convoy. The Criticks of Our Times pouring in, whole Broad-ſides of Cenſure, before They Know, whether the thing may prove Prize or not. They are Ingenious in Other Mens Books, but ſeldom in Their Own, and think every <hi>Imprimatur,</hi> gives them Licence to become Ridiculous: Like the Bear they think their own Iſſue moſt beautiful; and there<g ref="char:EOLhyphen"/>fore, whatſoever the Product of their Brains be, they think may paſs, without any Elaborations of Art to lick it into faſhion. For My Part, I can ſcarce without a
+<pb facs="tcp:56904:3"/>Bluſh, Chriſten this Infant of My Fancy, with the Name of a POEM, ſince I am conſcious of its want of Merit. But if Your Lordſhip vouchſafe to find to it, Your Accep<g ref="char:EOLhyphen"/>tance may raiſe it to that Title: For as Lead, or ſome ſuch inferiour Mettals, though They have but little worth in Themſelves, yet from Their Stamp, They re<g ref="char:EOLhyphen"/>ceive Value and Eſtimation. The Story is Heroick, and in that, as far above a Common Patronage, as it is un<g ref="char:EOLhyphen"/>worthy of Yours. I have neither altogether followed, nor yet declin'd Hiſtory, leſt by the One, My Play might be took for a Piece tranſlated out of <hi>Livie</hi> or <hi>Lucan,</hi> or by the Other, for an Idle Romance; but like the Tra<g ref="char:EOLhyphen"/>vellor, for Delight, ſometimes I follow, and ſometimes I quit My Road. Your Lordſhip may blame Me, that I ſpent My time in Writing of a Play, when I might have improv'd My Self in the Study of the Law; truly, I made it My Diverſion, not my Study; for after I had read a Sect or two in <hi>Littleton,</hi> I then to divert My Self, took <hi>Caeſar's</hi> Commentaries, or read the Lives of My <hi>Roman Generalls,</hi> out of <hi>Plutarch.</hi> I Know the Common Fate of a Play, it ſeldom Lives more dayes then the Word has Letters in't, unleſs ſome more then Common Influence preſerve it longer. So that 'tis alone Your Lordſhips fa<g ref="char:EOLhyphen"/>vourable Acceptance, which can preſerve Mine to a lon<g ref="char:EOLhyphen"/>ger Date, which is already confident of Your Protection, ſince Your Early Services for Your Countrey, have allied You to the Glory of the <hi>Roman Generalls.</hi>
+            </p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <hi>I am</hi>
+               <signed>the Admirer of Your Honor, and the obliged Servant of Your Lordſhip's Goodneſs. J. DOVER.</signed>
+            </closer>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:56904:3"/>
+            <head>PROLOGUE.</head>
+            <lg>
+               <l>THE Poet had deſign'd His Play ſhould be,</l>
+               <l>Beſtow'd on Both the Houſes <hi>Nurſery.</hi>
+               </l>
+               <l>His modeſt Judgement, deemed it moſt fit,</l>
+               <l>In Nurſeries to plant Young Twiggs of Wit.</l>
+               <l>Thinking to ſhun A Publick Cenſure, ſince</l>
+               <l>They count Ten People There, an Audience.</l>
+               <l>Thus A Dull Sermon may be took for good,</l>
+               <l>Preach't before few, where 'tis not underſtood.</l>
+               <l>So He would ſhun the Cenſure of this Age,</l>
+               <l>Where Poets for Their Playes are brought o'th' Stage.</l>
+               <l>But new Reſolves did tell Him, that 'twas worſe,</l>
+               <l>To ſet the <hi>Roman Gen'rals</hi> out to Nurſe,</l>
+               <l>Then to expoſe Them to the World; ſince They,</l>
+               <l>Are Champions able to defend His Play.</l>
+               <l>As for the Ladies which are in Diſtreſs,</l>
+               <l>The Author does preſume, You can't do leſs,</l>
+               <l>Then entertain Them, which Acceptance will,</l>
+               <l>Render Them happy, and Him grateful ſtill.</l>
+            </lg>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:56904:4"/>
+            <head>Dramatis Perſonae.</head>
+            <list>
+               <item>I. Caeſar.</item>
+               <item>His two Generals.
+<list>
+                     <item>M. Valerius.</item>
+                     <item>Curio.</item>
+                  </list>
+               </item>
+               <item>Pompey.</item>
+               <item>Conſuls.</item>
+               <item>Senators.</item>
+               <item>Craſſus <hi>his Ghoſt.</hi>
+               </item>
+               <item>Uxama. <hi>A Spaniſh Lord, in Love with Selania.</hi>
+               </item>
+               <item>Selania: <hi>A Sardinian Lady.</hi>
+               </item>
+               <item>Aſtragia <hi>and her Siſter: Two Diſtreſſed Ladies.</hi>
+               </item>
+               <item>Parmeno. <hi>Servant to</hi> Uxama <hi>taken Priſoner, with Six other Spaniards.</hi>
+               </item>
+               <item>
+                  <hi>An Augure.</hi>
+               </item>
+               <item>
+                  <hi>Souldiers.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:56904:4"/>
+            <head>THE Roman Generalls: OR THE Diſtreſſed Ladies.</head>
+            <div n="1" type="act">
+               <head>ACTUS I. SCENA PRIMA.</head>
+               <stage>Caeſar's <hi>Tents as in</hi> Gallia.</stage>
+               <stage>J. Caeſar, Valerius, Curio, <hi>Souldiers.</hi>
+               </stage>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>THE Enterpriſe as I would wiſh ſucceeds,</l>
+                  <l>And the Proud City trembles at Our Deeds.</l>
+                  <l>Who aims at Greatneſs, or at publick fame,</l>
+                  <l>By ſome great Action muſt advance His Name.</l>
+                  <l>I look not on My Birth, but what I've done,</l>
+                  <l>Can Glory be intail'd upon the Son?</l>
+                  <l>Fortune and Reſolution both intend</l>
+                  <l>This great beginning, for ſome glorious End.</l>
+                  <l>Whil'ſt Valiant <hi>Craſſus,</hi> do's in <hi>Aſia</hi> ſtay,</l>
+                  <l>
+                     <hi>Pompey</hi> in <hi>Spain,</hi> and I in <hi>Gallia,</hi>
+                  </l>
+                  <l>We to the World ſhall give Decrees; and <hi>Rome,</hi>
+                  </l>
+                  <l>Proud <hi>Rome</hi> Her ſelf muſt in ſubjection come.</l>
+               </sp>
+               <pb facs="tcp:56904:2"/>
+               <stage>
+                  <hi>Enter a Meſſenger, He preſents a Letter to</hi> Caeſar, <hi>which He reads in private.</hi>
+               </stage>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>He, who His Countrey ſerves, with Juſtice may</l>
+                  <l>Challenge, nay force Rewards, if None will pay.</l>
+                  <l>It is a grief diſtracts a Gen'rous Mind,</l>
+                  <l>When more to Chance, then Merit is aſſign'd.</l>
+                  <l>Merits more great than <hi>Caeſar,</hi> who can plead?</l>
+                  <l>What He hath done for <hi>Rome</hi> Reſpect ſhould breed.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>Who ever ſav'd a Town by His Defence,</l>
+                  <l>And did expect the Town for Recompence?</l>
+                  <l>What though Great <hi>Caeſar,</hi> hath in Battle ſtood,</l>
+                  <l>For to maintain <hi>Romes</hi> Int'reſt with His blood?</l>
+                  <l>'Tis but a Debt that's due. Let that ſuffice,</l>
+                  <l>Muſt She Her ſelf, become Her Champion's Prize?</l>
+               </sp>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>But if ſuch Acts meet envy for Return,</l>
+                  <l>It Kindles Paſſion, and it makes us burn.</l>
+                  <l>When Senators repay ſuch Deeds with ſpite,</l>
+                  <l>As Our Own Carvers, We Our ſelves requite;</l>
+                  <l>And then Our publick Power We reduce,</l>
+                  <l>To private Ends, and to peculiar Uſe.</l>
+               </sp>
+               <stage>Caeſar having read the Letter, ſeems troubled.</stage>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>
+                     <hi>What Cloud of Fortune Sir, invades the Light,</hi>
+                  </l>
+                  <l>
+                     <hi>And maſques thoſe beams, with which You ſhone ſo bright?</hi>
+                  </l>
+                  <l>
+                     <hi>Strange Intervenes of Chance, that can moleſt</hi>
+                  </l>
+                  <l>
+                     <hi>A Mind where Glory has the Intereſt.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>
+                     <hi>Craſſus</hi> is ſlain; Two only Left behind,</l>
+                  <l>To run that race of Glory, We have deſign'd.</l>
+                  <l>My ſelf and <hi>Pompey,</hi> Who grow greater thus</l>
+                  <l>When as His part too, muſt be ſhar'd by Us.</l>
+                  <l>Though He be fell, yet Thou ſhalt find O <hi>Rome,</hi>
+                  </l>
+                  <l>That I and <hi>Pompey,</hi> will pronounce Thy Doom.</l>
+                  <l>He ſhould have ſhar'd Thy Greatneſs, but ſince dead,</l>
+                  <l>Wee'l part the Stake, and humble Thy Proud Head.</l>
+                  <l>How fell the Roman?—</l>
+               </sp>
+               <sp>
+                  <speaker>Meſſeng.</speaker>
+                  <l>— Sir 'till freſh ſupplies</l>
+                  <l>Of <hi>Parthian</hi> Arrows darkned all the Skies,</l>
+                  <pb n="3" facs="tcp:56904:5"/>
+                  <l>Whoſe poys'ned Heads, joyn'd with unequal force,</l>
+                  <l>Kill'd Our Brave Generall, and beat Our Horſe,</l>
+                  <l>'Till then Hope led Us on; for Victory</l>
+                  <l>Upon a Doubtful Wing, did ſeem to fly.</l>
+                  <l>
+                     <hi>Craſſus</hi> fought ſtill; as Lyons ſcorn to yield.</l>
+                  <l>But 'gainſt unequal Dogs maintain the Field:</l>
+                  <l>Not by their Valour overcome, but force,</l>
+                  <l>We rally'd up ſome of Our ſcatter'd Horſe.</l>
+                  <l>
+                     <hi>Craſſus</hi> with Theſe retreats to th' <hi>Aſian</hi> Shore,</l>
+                  <l>And like the Sea, foams that He can't do more.</l>
+                  <l>Block't up by <hi>Aſian</hi> Horſe; at laſt He rides,</l>
+                  <l>Into the Sea, like <hi>Neptune</hi> on the Tides.</l>
+                  <l>Expecting in that Field no Enemy,</l>
+                  <l>Unleſs like Him, He had reſolv'd to dye.</l>
+                  <l>At laſt the gallant <hi>Parthian</hi> General,</l>
+                  <l>Both to partake His glory, and His fall,</l>
+                  <l>Follow'd Brave <hi>Craſſus:</hi> whil'ſt th' Inſulting Waves,</l>
+                  <l>Preſent at Once Their Triumphs, and Their Graves.</l>
+                  <l>Their mutual wounds gave tincture to the flood,</l>
+                  <l>And purl'd the Sea, with Clarrets of Their blood.</l>
+                  <l>When the Barbarians ſaw Their Gen'ral dye,</l>
+                  <l>They made ſtrange Outcries, and began to flye.</l>
+                  <l>It may ſeem ſtrange, but yet Great Sir, 'tis true,</l>
+                  <l>We were O'recome, ev'n whil'ſt we did purſue.</l>
+                  <l>They us'd their Bows in flight, and in ſhort ſpace,</l>
+                  <l>Kill'd more, then when They fought Us face to face.</l>
+                  <l>Thus fell Our Fortune—</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>—'Tis but juſt We ſhou'd</l>
+                  <l>Who ſhare His Glory, recompence His blood.</l>
+               </sp>
+               <stage>Enter another Meſſenger.</stage>
+               <sp>
+                  <speaker>Meſſeng.</speaker>
+                  <l>
+                     <hi>Pompey</hi>'s return'd with Victory from <hi>Spain,</hi>
+                  </l>
+                  <l>But <hi>Craſſus</hi> by the <hi>Parthian</hi> Arms is ſlain.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>Ill News like a Contagion ſpreads too faſt,</l>
+                  <l>And in its ſloweſt pace, makes too much haſte.</l>
+               </sp>
+               <sp>
+                  <speaker>Meſſeng.</speaker>
+                  <l>Neither <hi>Marcellus</hi> Sir, nor <hi>Cato</hi> Now,</l>
+                  <l>Envy the Lawrells, which do crown Your Brow.</l>
+                  <l>Each face is crown'd with ſmiles, and All concurr,</l>
+                  <l>By gen'ral Vote, to chooſe You Conſul Sir.</l>
+                  <pb n="4" facs="tcp:56904:6"/>
+                  <l>But firſt Great Sir, You muſt Your Troops disband.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>No Man's ſecure, if He unarmed ſtand.</l>
+                  <l>Your Meſſage friend, ſuſpition do's create,</l>
+                  <l>Their Love I fear's but Vizard to Their Hate.</l>
+                  <l>They fain would have Me, to disband My Men,</l>
+                  <l>That ſo I might become a Prey to Them.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>Firſt with Your Army march to <hi>Rome,</hi> and then,</l>
+                  <l>If You think fit, You may disband Your Men.</l>
+                  <l>This Sir's Your ſafeſt Way, and by this Courſe,</l>
+                  <l>What They refuſe to give, You've Power to force.</l>
+                  <l>If We lay down Our Arms, We do as They,</l>
+                  <l>Who ſome officious Conſtable obey,</l>
+                  <l>Who in the King's Name, do's command Their Swords,</l>
+                  <l>And then preſumes to give Them ſawcy Words.</l>
+               </sp>
+               <sp>
+                  <speaker>Valerius.</speaker>
+                  <l>Although They urge it was the Antient way,</l>
+                  <l>To come unarm'd, Yet pray You Sir diſobey.</l>
+                  <l>From Theſe Our Swords, We ſafety may expect,</l>
+                  <l>And from Their malice, may Our ſelves protect.</l>
+                  <l>Whil'ſt in Our Enſigns conquering Eagles fly,</l>
+                  <l>All Birds of Leſſer Prey muſt quit the Sky.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>Our Anceſtors, Who Candidates did ſtand,</l>
+                  <l>For Conſulſhips, or other high Command.</l>
+                  <l>To be choſe Senators, or ſo; ſtill firſt,</l>
+                  <l>Lay'd down Their Arms, and did the Senate truſt.</l>
+                  <l>But 'tis not ſafe for You; We rather may,</l>
+                  <l>Pervert ſuch Cuſtoms, then our ſelves betray.</l>
+               </sp>
+               <sp>
+                  <speaker>Valerius.</speaker>
+                  <l>Greatneſs 'till Now, might but a Shrub's height own,</l>
+                  <l>Which Now in You, Great Sir, a Cedar's grown.</l>
+                  <l>And hence, They do repine at Your bright Fame,</l>
+                  <l>And by Their hatred, would Ecclipſe Your Name.</l>
+                  <l>Your Greatneſs Sir, ſtrikes Their Ambitious Head,</l>
+                  <l>The Lyon which They fear, They'd trample, dead.</l>
+                  <l>A Will They have, but 'tis the Power They want,</l>
+                  <l>If you lay down Your Arms, That Power You grant.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>
+                     <hi>My Lords!</hi> Your ſober Councils I approve,</l>
+                  <l>The Senat's hate I fear not, but Their Love.</l>
+                  <l>Pretending Love, they think to gain their Ends,</l>
+                  <l>For ſo diſguis'd, we know not foes from friends.</l>
+                  <pb n="5" facs="tcp:56904:6"/>
+                  <l>Dogs that intend to bite, do ſeldom Bark,</l>
+                  <l>But with their ſilent Chaps, they wound their Mark.</l>
+                  <l>Love they pretend, but Envy they deſign,</l>
+                  <l>Caſtles we cannot ſcale, we undermine.</l>
+                  <l>But let them ſtill pretend; in vain they ſet</l>
+                  <l>Lime-twigs for <hi>Caeſar's</hi> hands; in vain the Net.</l>
+                  <l>In vain ſuch Serpents ſhew a painted skin,</l>
+                  <l>That think to tempt my fingers to their ſting.</l>
+                  <l>For by your Councils, being thus forewarn'd,</l>
+                  <l>Wee'l keep our ſelves ſecure, whil'ſt thus forearm'd.</l>
+                  <l>
+                     <hi>Cato</hi> and proud <hi>Marcellus</hi> I defie,</l>
+                  <l>At abject Preys Eagles diſdain to flie.</l>
+                  <l>Fortune my Name above their Pride, has born,</l>
+                  <l>And as they envy me, ſo them I ſcorn.</l>
+                  <l>Give Order for the Armies March. That Fate</l>
+                  <stage>Exe. Valer. &amp; Curio.</stage>
+                  <l>Which <hi>France</hi> hath felt. I'le make <hi>Rome</hi> tremble at.</l>
+                  <l>Her Senators and Conſuls too, ſhall ſtand</l>
+                  <l>As thunderſtrook, when I do lift my hand.</l>
+                  <l>If they refuſe to do what I think Juſt,</l>
+                  <l>I'le lay <hi>Rome's</hi> ſtately Towners in the Duſt.</l>
+                  <l>Break up her Treaſure, and my ſelf requite,</l>
+                  <l>For all the Service I have done in fight.</l>
+                  <l>Her Borders with the noiſe of Drums I'le fill,</l>
+                  <l>And ſtrike Convulſions, in her ſeven top't Hill.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Valerius <hi>&amp;</hi> Curio, <hi>Colours flying, the Drums beat a March.</hi>
+               </stage>
+               <l>Thoſe Eagles have brought Conqueſt on their wing,</l>
+               <l>And to us yet, this Sword victorious been,</l>
+               <l>Over the greater part o'th' world. And now,</l>
+               <l>Proud <hi>Rome</hi> ſhall know, what <hi>Roman</hi> hands can do.</l>
+               <stage>Exeunt Omnes, the Drums beating a March.</stage>
+               <pb n="6" facs="tcp:56904:7"/>
+               <stage>The Scene is a Tempeſtuous Sea.</stage>
+               <stage>Two Ladies are diſcover'd as caſt on Shoar on a Planck.</stage>
+               <sp>
+                  <speaker>1. <hi>Lady.</hi>
+                  </speaker>
+                  <l>What Shoar is this, that we are caſt upon?</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>Alas! ſome forraign Coaſt to us unknown.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>Let's humbly Kiſs it, what ſo e're it be,</l>
+                  <l>Since from devour'ing Seas, it ſets us free.</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>Here we perchance may ſpend our Dayes in grief,</l>
+                  <l>Strangers in forraign Lands, find cold relief.</l>
+                  <l>And when grief ſpins our time, we cannot ſay</l>
+                  <l>We Live, but rather dye our time away.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lady.</hi>
+                  </speaker>
+                  <l>But yet our Sex, ſure will ſome pitty move,</l>
+                  <l>Or elſe our Beauty will procure ſome Love.</l>
+                  <l>Have Storms been ſo Injurious as to plough,</l>
+                  <l>Furrows on ours, as on the Ocean's Brow?</l>
+                  <l>We want our Glaſſes to conſult, let's ſpie</l>
+                  <l>Our forms i'th' Mirrhors of each other's Eye.</l>
+                  <l>Is all our Beauty gone, and all our Arts,</l>
+                  <l>Our Charms and Graces, which did conquer hearts?</l>
+                  <l>Cannot theſe Quivers yield one Dart, may prove,</l>
+                  <l>To wound with Pity, or to wound with Love?</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>Alas! that Power is gone: We hope in vain,</l>
+                  <l>That ſuch mild Baſilisks can Conqueſt gain.</l>
+                  <l>'Tis not the Martial but the Am'rous Crew,</l>
+                  <l>That Women conquer, and that Eyes ſubdue.</l>
+                  <l>This Land perhaps contains a Race of Men,</l>
+                  <l>With hearts of Stone; what Weapons have we then?</l>
+                  <l>When all our ſighs and tears have no more force,</l>
+                  <l>Then drops on Marbles, and meet no Remorſe.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>Were this the Land, where cruel <hi>Scythians</hi> dwell,</l>
+                  <l>Or were it ſome inhoſpitable Cell.</l>
+                  <l>If once the fire of Love, did warm their mind,</l>
+                  <l>'Twould make the <hi>Scythians</hi> Courteous, Tigers kind.</l>
+                  <l>Why ſince in ev'ry Breaſt, Love do's controul,</l>
+                  <l>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d warm the North, as well as Southern Pole,</l>
+                  <pb n="7" facs="tcp:56904:7"/>
+                  <l>Should we deſpair, or fear our fate, although,</l>
+                  <l>Theſe people in their Breaſts, had Alps of Snow?</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>I am for going back to Sea again,</l>
+                  <l>Wee'l flote, to ſeek new fortune on the Main.</l>
+                  <l>Perhaps the Planck, as well may us reſtore,</l>
+                  <l>Unto our Native, as a forraign Shoar.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>No. Being ſafe, let us not truſt the waves,</l>
+                  <l>Let we our Countrey ſeeking, find our graves.</l>
+                  <l>Hark how the Winds do blow, and Seas do roar,</l>
+                  <l>I fear this Countrey, but I fear them more.</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>The Sea ſeems troubled at our fate; and moans,</l>
+                  <l>Weeping in waves, whil'ſt Rocks do Eccho groans.</l>
+                  <l>The Winds do murmur, at our ſhipwrack't fate,</l>
+                  <l>And chide the Seas, 'till they new ſtorms create.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>No more I'le truſt the Sea, though ſhe ſhould ſmile,</l>
+                  <l>Then I would do the weeping Crocodile.</l>
+                  <l>If we return again, we do as they,</l>
+                  <l>Who fly one Bear, to be another's Prey.</l>
+                  <l>Wee'l try our Fortune here at Land. We may</l>
+                  <l>Hope better Chance, Night uſhers in the Day.</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>May the kind Gods, whoſe eyes with juſt reſpect</l>
+                  <l>Look down, obnoxious Innocents protect.</l>
+               </sp>
+               <stage>Exeunt hand in hand.</stage>
+               <stage>
+                  <hi>The Scene is an</hi> Italian <hi>Plain,</hi>
+               </stage>
+               <stage>Where an Augure is diſcover'd as amongſt Sheep. A Nymph paſſeth by, ſcornfully, He Sings.</stage>
+               <stage>THE SONG,</stage>
+               <sp>
+                  <speaker>Augure.</speaker>
+                  <l>
+                     <hi>NYmph why ſo coy? you hope in vain,</hi>
+                  </l>
+                  <l>
+                     <hi>To cool my Boſom with diſdain.</hi>
+                  </l>
+                  <l>
+                     <hi>Scorn can no more my heat aſſwage,</hi>
+                  </l>
+                  <l>
+                     <hi>Then Payls of Oyle a fire's Rage.</hi>
+                  </l>
+                  <l>
+                     <hi>If you would quench my hot deſire,</hi>
+                  </l>
+                  <l>
+                     <hi>Contribute fuell to the fire,</hi>
+                  </l>
+                  <l>
+                     <hi>For nought my Breaſt can ſatisfie,</hi>
+                  </l>
+                  <l>
+                     <hi>Unleſs You burn, as will as I.</hi>
+                  </l>
+               </sp>
+               <pb n="8" facs="tcp:56904:8"/>
+               <stage>The Nymph Anſwers,</stage>
+               <sp>
+                  <speaker>Nymph</speaker>
+                  <l>
+                     <hi>I'le never burn in flames again,</hi>
+                  </l>
+                  <l>
+                     <hi>But pay your falſhood with diſdain.</hi>
+                  </l>
+                  <l>
+                     <hi>If Scorn cannot aſſuage your beat,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor make you from my Love retreat.</hi>
+                  </l>
+                  <l>
+                     <hi>My abſence ſhall put out the fire,</hi>
+                  </l>
+                  <l>
+                     <hi>When it wants fuell 'twill expire.</hi>
+                  </l>
+                  <l>
+                     <hi>I will remove the ſcornfull gueſt,</hi>
+                  </l>
+                  <l>
+                     <hi>And thus I'le ſatisfie your Breaſt.</hi>
+                  </l>
+               </sp>
+               <stage>The Augure Anſwers,</stage>
+               <sp>
+                  <speaker>Augure.</speaker>
+                  <l>
+                     <hi>If that your Rebel thoughts foreknew,</hi>
+                  </l>
+                  <l>
+                     <hi>Or thought your Abſence could ſubdue</hi>
+                  </l>
+                  <l>
+                     <hi>My Love. You then would uſe that Art,</hi>
+                  </l>
+                  <l>
+                     <hi>To make a Conqueſt of my heart.</hi>
+                  </l>
+                  <l>
+                     <hi>But you a Conqueſt hope in vain,</hi>
+                  </l>
+                  <l>
+                     <hi>Whil'ſt you the Fortreſs do maintain,</hi>
+                  </l>
+                  <l>
+                     <hi>I'le never raiſe the Siege, but ſware,</hi>
+                  </l>
+                  <l>
+                     <hi>To make an everlaſting War.</hi>
+                  </l>
+               </sp>
+               <stage>The Nymph Anſwers.</stage>
+               <sp>
+                  <speaker>Nymph.</speaker>
+                  <l>
+                     <hi>When I beleaguer'd you with Love,</hi>
+                  </l>
+                  <l>
+                     <hi>You in the Siege did conſtant prove.</hi>
+                  </l>
+                  <l>
+                     <hi>And ſeem'd as much to ſcorn the Foe,</hi>
+                  </l>
+                  <l>
+                     <hi>As now, your falſhood, makes me do.</hi>
+                  </l>
+                  <l>
+                     <hi>From your Example I am grown,</hi>
+                  </l>
+                  <l>
+                     <hi>So wiſe as to maintain my own,</hi>
+                  </l>
+                  <l>
+                     <hi>With uſeleſs Troops of Words be gone,</hi>
+                  </l>
+                  <l>
+                     <hi>Invade not my Dominion.</hi>
+                  </l>
+               </sp>
+               <stage>Exit Nymp.</stage>
+               <stage>
+                  <hi>He follows her haſtily, and returns</hi> ſolus.</stage>
+               <sp>
+                  <speaker>Augure.</speaker>
+                  <l>The day is overcaſt, methinks I ſee,</l>
+                  <l>Laborious Ants and the Induſtrious Bee.</l>
+                  <pb n="9" facs="tcp:56904:8"/>
+                  <l>Ants to their Hillocks travel with their Packs,</l>
+                  <l>Bees flying to their Hives, with thighs of Wax.</l>
+                  <l>Theſe do foretell ſome Rain; beſides the Sheep</l>
+                  <l>Feeding ſo faſt, I know the Heav'ns will weep.</l>
+                  <l>But let it rain, I'le to you Shepheard's Bower,</l>
+                  <l>And ſing, whil'ſt ſpungy Clouds weep down the Shower.</l>
+               </sp>
+               <stage>He is going off. Enter Faeries.</stage>
+               <sp>
+                  <speaker>Faer.</speaker>
+                  <l>Stay! ſtay! What mak'ſt thou on our Faery ground?</l>
+                  <l>Seeſt thou not here a Ring, where we daunce round?</l>
+                  <l>Pinch him, till blood come, nothing ſhall ſuffice,</l>
+               </sp>
+               <stage>They pinch him</stage>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Accept Lamb's blood then for a Sacrifice.</l>
+               </sp>
+               <stage>He cryes out.</stage>
+               <sp>
+                  <speaker>Faer.</speaker>
+                  <l>Nought can ſuffice for coming on our ground,</l>
+                  <l>Unleſs like us, thou knew'ſt to daunce a Round.</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>I cannot daunce, but I can Pipe at need,</l>
+                  <l>
+                     <hi>Pan</hi> ne're in all his Life had better Reed.</l>
+               </sp>
+               <sp>
+                  <speaker>Faer.</speaker>
+                  <l>Sit down, and with thy Pipe begin a ſtrain,</l>
+                  <l>It ſhall ſuffice. Wee'l trip it o're the Plain.</l>
+               </sp>
+               <stage>The Augure ſits down, the Faeries daunce an Antick Meaſure round him, ſinging as they daunce.</stage>
+               <stage>Faeries ſing and daunce.</stage>
+               <lg>
+                  <l>WE <hi>daunce an Antick Round,</hi>
+                  </l>
+                  <l>
+                     <hi>Blew Rings on the Ground,</hi>
+                  </l>
+                  <l>
+                     <hi>Shall alwayes be found,</hi>
+                  </l>
+                  <l>
+                     <hi>Where we keep Rendezvous.</hi>
+                  </l>
+                  <l>
+                     <hi>We love the kind Swains,</hi>
+                  </l>
+                  <l>
+                     <hi>Who delight on the Plains,</hi>
+                  </l>
+                  <l>
+                     <hi>At night comes their gains,</hi>
+                  </l>
+                  <l>
+                     <hi>When we think on their Shoes.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Pinch the next, pinch him round,</hi>
+                  </l>
+                  <l>
+                     <hi>Untill there be found,</hi>
+                  </l>
+                  <l>
+                     <hi>Like the ſtains on our ground,</hi>
+                  </l>
+                  <l>
+                     <hi>Blew ſpots in his Arms.</hi>
+                  </l>
+                  <l>
+                     <hi>Wee'l daunce and Wee'l ſing,</hi>
+                  </l>
+                  <l>
+                     <hi>Whil'ſt we alwayes do bring,</hi>
+                  </l>
+                  <l>
+                     <hi>In our fingers our Sting,</hi>
+                  </l>
+                  <l>
+                     <hi>And rejoyce at his Harms.</hi>
+                  </l>
+               </lg>
+               <stage>Exeunt.</stage>
+               <pb n="10" facs="tcp:56904:9"/>
+               <stage>The Augure riſes and ſpeaks.</stage>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>I've been a Piper made indeed I'me ſure,</l>
+                  <l>This wind, theſe water Muſick did procure.</l>
+                  <l>The rain I did foreſee, fell from mine Eyes,</l>
+                  <l>Here lyes the Shower in Tears, and theſe the Skyes.</l>
+                  <l>Theſe Faeries were the Ants and Bees, which bring,</l>
+                  <l>Not in their tails like them, but thus their ſting.</l>
+                  <l>But Night draws on, and Heav'ns reſplendent Eye,</l>
+                  <l>Winks as 'twould ſay, Siſter approach the Skie.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Valerius, <hi>Attendants.</hi>
+               </stage>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>Are you an Augure?—</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>— Yes.</l>
+               </sp>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>— I'm hither ſent.</l>
+                  <l>By <hi>Caeſar,</hi> for to bring you, to his Tent.</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Sir, I muſt begg this Night to be at home,</l>
+                  <l>And in the Morn, I'le tell him things to come.</l>
+               </sp>
+               <stage>Exeunt ſeverally.</stage>
+               <stage>The Scene is a Grove.</stage>
+               <stage>Enter the two former Ladies.</stage>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>We have wander'd all this Day, within this Grove,</l>
+                  <l>Wee'l lodge to Night, that we may dream of Love.</l>
+                  <l>And ſo delude the tedious time away;</l>
+                  <l>Night locking up our griefs, till break of Day.</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>The day grief's Term time is, but then Night brings</l>
+                  <l>A ſhort Vacation, on her ſable wings.</l>
+                  <l>Let us lie down to ſleep, grief hidden Lies,</l>
+                  <l>Whil'ſt ſlumber ſhuts the Caſements of our Eyes.</l>
+               </sp>
+               <stage>They lye down, Flagilets play, a Flouriſh within the Grove, to the Tunes of Birds.</stage>
+               <stage>Both riſe.</stage>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>'Tis <hi>Philomel,</hi> who by her warbling Lay,</l>
+                  <l>Bids a good Night to'th' Planet of the Day.</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>The Birds are gone to rooſt, the Lawrels nod,</l>
+                  <stage>They ſeem to liſten.</stage>
+                  <l>As <hi>Daphne</hi> ſlept, or ſtarted at the God.</l>
+                  <l>The Sun's to <hi>Thetis</hi> gone, to take his reſt,</l>
+                  <l>Betwixt the Azure Pillows of her Breaſt.</l>
+                  <l>Under theſe Courteous ſhades, wee'l lodge to Night,</l>
+                  <l>Till on her ſcarlet Wings, Morn brings the Light.</l>
+               </sp>
+               <stage>Exeunt hand in hand into the Grove.</stage>
+            </div>
+            <div n="2" type="act">
+               <pb n="11" facs="tcp:56904:9"/>
+               <head>ACTUS II. SCENA PRIMA.</head>
+               <stage>Caeſar <hi>is diſcovered aſleep in his Pavilion, a Page playing on a Lute, and two Souldiers ſtanding Sentinel.</hi>
+               </stage>
+               <stage>
+                  <hi>Enter the Augure.</hi> Caeſar <hi>ariſeth and come on the Stage.</hi>
+               </stage>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>HOw now? Can you foretell Events to come,</l>
+                  <l>Or do you know, what is decreed of <hi>Rome?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Command your Men away, the things you'l hear,</l>
+                  <l>Should not divulged be, to ev'ry Ear,</l>
+               </sp>
+               <stage>Caeſar Nods. Exeunt.</stage>
+               <stage>The Augure circles with his Wand, and ſpeaks.</stage>
+               <stage>Birds appear, Eagles, and Vultures.</stage>
+               <l>Whether to the Left or Right,</l>
+               <l>The winged Troops do take their flight.</l>
+               <l>If to the Left, it dos portend,</l>
+               <l>Some Evil will accrue i'th' End.</l>
+               <l>If to the Right it does preſage,</l>
+               <l>Proſperity will crown the Age.</l>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>What mean thoſe Vultures, and yon Eagles?</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>— Bloody War,</l>
+                  <l>And more then them, yon Blazing-Star,</l>
+                  <l>Which in the Eaſtern quarter ſhines,</l>
+                  <l>Men ſpeak by Words, the Gods by Signs.</l>
+                  <l>Strange Omens in a time ſo ſhort,</l>
+                  <l>Predicting Birds do now report,</l>
+                  <l>
+                     <hi>Tarquin's</hi> Luſt did End the Kings,</l>
+                  <l>And two Mens Pride <hi>Romes</hi> Ruine brings.</l>
+                  <l>She by one blow ſhall loſe far more,</l>
+                  <l>Then many Battles gain'd before.</l>
+                  <l>Great Sir, in <hi>Sybill's</hi> Books 'tis ſaid,</l>
+                  <l>'Till by a Prince her Bands be lead,</l>
+                  <pb n="12" facs="tcp:56904:10"/>
+                  <l>
+                     <hi>Rome</hi> o're the <hi>Parthians</hi> can't prevail,</l>
+                  <l>And <hi>Sybills</hi> Books do ſeldom fail.</l>
+                  <l>The <hi>Parthians</hi> do our Power diſdain,</l>
+                  <l>Remember <hi>Craſſus</hi> there was ſlain,</l>
+                  <l>Vengeance for his death purſue.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>I have Foes at home, that I muſt firſt ſubdue.</l>
+               </sp>
+               <sp>
+                  <speaker>Aug.</speaker>
+                  <l>Behold a Diſmal ſight, ſee where</l>
+                  <l>The Ghoſt of <hi>Craſſus</hi> does appear.</l>
+               </sp>
+               <stage>Craſſus <hi>paſſes by the Pavilion.</hi>
+               </stage>
+               <stage>Caeſar <hi>ſtands as frighted.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ghoſt.</speaker>
+                  <l>If thou doſt fear, I will away.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>Can <hi>Caeſar</hi> fear? ſtay <hi>Craſſus</hi> ſtay,</l>
+               </sp>
+               <sp>
+                  <speaker>Ghoſt.</speaker>
+                  <l>The Senate maſque their fatal harms,</l>
+                  <l>As <hi>Circe</hi> once her poys'nous charms.</l>
+                  <l>Come not on the Icy ground,</l>
+                  <l>The Senate would thy Power confound.</l>
+                  <l>Perfidious <hi>Pompey</hi> broken hath,</l>
+                  <l>Thoſe Vows by which, we ſeal'd our faith,</l>
+                  <l>When we did combine of late,</l>
+                  <l>For to ſhare the Roman State.</l>
+                  <l>Since <hi>Julia's</hi> and my Death, I know,</l>
+                  <l>He dos contrive thine Overthrow.</l>
+                  <l>Thy ſafety in thine Army lyes,</l>
+                  <l>Boldly thou may'ſt his Power deſpiſe.</l>
+                  <l>He ſhall be overthrown by thee,</l>
+                  <l>But then Great <hi>Caeſar,</hi> think on me.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>The Augure tells me, <hi>Sybill's</hi> Books have ſaid,</l>
+                  <l>That by a Prince the <hi>Romans</hi> muſt be led,</l>
+                  <l>Before the <hi>Parthians</hi> can be conquered.</l>
+               </sp>
+               <sp>
+                  <speaker>Ghoſt.</speaker>
+                  <l>True. But when thou art a Prince, ſay,</l>
+                  <l>Wilt thou then March to <hi>Aſia,</hi>
+                  </l>
+                  <l>For to revenge my death?—</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>— If e're I come,</l>
+                  <l>To ſway the Scepter, as the Prince of <hi>Rome,</hi>
+                  </l>
+                  <l>I will.—</l>
+               </sp>
+               <sp>
+                  <speaker>Ghoſt.</speaker>
+                  <l>— Enough. I muſt away,</l>
+                  <l>The Morn dos uſher in the Day.</l>
+                  <l>My Ghoſt haſt's to the <hi>Aſian</hi> Flood.</l>
+               </sp>
+               <stage>Exit.</stage>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>I'le pacifie thy Ghoſt with <hi>Parthian</hi> Blood.</l>
+               </sp>
+               <stage>Exit.</stage>
+               <pb n="13" facs="tcp:56904:10"/>
+               <stage>The Scene is the Lawrel Grove.</stage>
+               <stage>Enter the two Ladies as from out the Grove.</stage>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>The Stars ſtart from their Dreams, and ſeem to ſay,</l>
+                  <l>We muſt unto our Manſions float away.</l>
+                  <l>Leſt ſtaying here, Heav'ns reſplendent Eye,</l>
+                  <l>Should put us out, as Glow-worms of the Skie.</l>
+                  <l>For now the Champion of the day dos riſe,</l>
+                  <l>And routs thoſe Common Link-boyes from the Skies.</l>
+               </sp>
+               <stage>A Flouriſh from Flagilets within.</stage>
+               <sp>
+                  <speaker>Both.</speaker>
+                  <l>Hark, Hark.—</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>'Tis <hi>Philomel,</hi> whoſe warbles ſeem to ſay,</l>
+                  <l>Make Room there, for the Planet of the Day.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>Would Night again begloom'd this glorious place,</l>
+                  <l>Whoſe winged Tenants mock us to our Face.</l>
+                  <l>Might an Eternal ſleep our Senſe delude,</l>
+                  <l>Who late were Inmates to that Solitude.</l>
+                  <l>That we might find like them who <hi>Opium</hi> take,</l>
+                  <l>Our Souls i'th' other world, when as we wake.</l>
+                  <l>My ſorrow whil'ſt I ſpeak my Tears exacts,</l>
+                  <l>And turns my weeping Eyes to Chataracts.</l>
+               </sp>
+               <stage>She weeps.</stage>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>Why weep'ſt <hi>Secreta?</hi> come diſcharge your Mind,</l>
+                  <l>Sorrow when 'tis declar'd, relief may find.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>'Tis moſt unjuſt my ſorrow to reveal,</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>'Tis moſt unkind your ſorrow to conceal,</l>
+                  <l>Your Shipwrack't fortune I did ſhare at Sea,</l>
+                  <l>Let me at Land in grief your ſharer be.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>If in my grief you ſhould a ſharer be,</l>
+                  <l>The Shipwrack would be worſe, then that at Sea.</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>Not knowing of your ſorrow, whil'ſt you cry,</l>
+                  <l>I'm Shipwrack't by the Tempeſts in your Eye.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>If in mine Eyes ſuch Tempeſts you do find,</l>
+                  <l>You'l find far greater Tempeſts in my Mind.</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>Come ſpeak your Mind, that I at laſt may prove,</l>
+                  <l>My ſelf your friend, and manifeſt my Love.</l>
+                  <pb n="14" facs="tcp:56904:11"/>
+                  <l>For in your grief I'le ſhare, 'tis ſome redreſs,</l>
+                  <l>To have Campanions when we're in Diſtreſs.</l>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Lad.</hi>
+                  </speaker>
+                  <l>You force my tears and tongue. Firſt Madam know,</l>
+                  <l>That to <hi>Sardinia</hi> I my Birthright owe.</l>
+                  <l>My Name's <hi>Selania;</hi> I to <hi>Spain</hi> did come,</l>
+                  <l>When bloody War call'd brave <hi>Uxama</hi> home,</l>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Lad.</hi>
+                  </speaker>
+                  <l>You call'd your ſelf <hi>Secreta.</hi>—</l>
+               </sp>
+               <sp>
+                  <speaker>Selania.</speaker>
+                  <l>—'Tis no ſhame,</l>
+                  <l>If Love be all the fault, to change one's Name.</l>
+                  <l>My Name's <hi>Selania,</hi> when yerſt while in <hi>Spain,</hi>
+                  </l>
+                  <l>Thouſands by <hi>Pompey's</hi> bloody Sword were ſlain,</l>
+                  <l>The Brave <hi>Uxama</hi> taken Priſoner,</l>
+                  <l>And carr'd to <hi>Rome,</hi> to grace his Triumphs there.</l>
+                  <l>I went in hopes to find him out at laſt,</l>
+                  <l>But with you, on this unknown Shoar am caſt.</l>
+                  <l>
+                     <hi>Uxama</hi> gone, I could not longer ſtay,</l>
+                  <l>Shadows purſue the ſubſtance ev'ry way.</l>
+                  <l>But like an Amazon did take up Arms,</l>
+                  <l>Such is the power of Love's forcing Charms.</l>
+                  <l>Nor was it more then juſt, that I ſhould be,</l>
+                  <l>Diſguis'd for him, who was diſguis'd for me.</l>
+                  <l>He call'd himſelf <hi>Oranges</hi> or our Iſle,</l>
+                  <l>And ſtamp't his Fortune from my frown or ſmile.
+<stage>She weeps.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>I pity your hard fate, nor is mine leſs,</l>
+                  <l>Though not in Tears, I'm Rival in diſtreſs.</l>
+                  <l>Grief's like a River which dos ſilent creep,</l>
+                  <l>And makes but little Noiſe if it be deep.</l>
+                  <l>Spare fruitleſs Tears, in vain you do deplore,</l>
+                  <l>What once being loſt, you never can find more.</l>
+               </sp>
+               <sp>
+                  <speaker>Selania.</speaker>
+                  <l>Who from ſo ſmall a Tribute, can refrain,</l>
+                  <l>As Tears, although the tribute be in vain?</l>
+                  <l>We weep dead friends, although each Tear that's ſhed,</l>
+                  <l>Prove but a needleſs payment to the dead.</l>
+                  <l>Merchants may mourn their Loſs, though tears they ſpill,</l>
+                  <l>Do with more water drown the Treaſure ſtill.</l>
+                  <l>My dear <hi>Uxama</hi> who conceal'dſt thy Name,</l>
+                  <l>And call'dſt thy ſelf <hi>Or anges.</hi>—
+<stage>She weeps.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>—You're too blame.</l>
+                  <pb n="15" facs="tcp:56904:11"/>
+                  <l>To yield to paſſion, and give way to tears,</l>
+                  <l>Caſt away ſorrow and ſubdue your fears.</l>
+                  <l>I'de fain divert you from your grief; I'le ſing</l>
+                  <l>And ſee if muſick may diverſion bring.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Madam,</l>
+                  <l>I wiſh whil'ſt for my grief you ſeek a Cure.</l>
+                  <l>You may a Balſome for your own procure.</l>
+               </sp>
+               <stage>Exit as into the Grove.</stage>
+               <stage>Muſick and Voices.</stage>
+               <lg>
+                  <head>THE SONG.</head>
+                  <l>
+                     <hi>THou God of Love, whoſe Quivers hold</hi>
+                  </l>
+                  <l>
+                     <hi>Shafts of Heat, and ſhafts of Cold.</hi>
+                  </l>
+                  <l>
+                     <hi>When hot we do Love's flame indure,</hi>
+                  </l>
+                  <l>
+                     <hi>When cold they do diſdain procure.</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe points are ſharp and ſtrong enough,</hi>
+                  </l>
+                  <l>
+                     <hi>To pierce through Maile or coats of Buff.</hi>
+                  </l>
+                  <l>
+                     <hi>Which can from hearts of flint ſtrike fire,</hi>
+                  </l>
+                  <l>
+                     <hi>To catch the tinder of Deſire.</hi>
+                  </l>
+                  <l>
+                     <hi>Then dive the Seas, and there create,</hi>
+                  </l>
+                  <l>
+                     <hi>In</hi> Neptune <hi>flame, in Fiſhes heat.</hi>
+                  </l>
+                  <l>
+                     <hi>Then mount the Skies, and with new fire,</hi>
+                  </l>
+                  <l>
+                     <hi>Snatcht from the Sphears the Gods inſpire.</hi>
+                  </l>
+                  <l>
+                     <hi>That</hi> Jove <hi>himſelf becomes the prize,</hi>
+                  </l>
+                  <l>
+                     <hi>Being ſhot with darts from</hi> Danaes <hi>Eyes.</hi>
+                  </l>
+                  <l>
+                     <hi>Such power has the God of Love,</hi>
+                  </l>
+                  <l>
+                     <hi>He Empires greater rules then</hi> Jove.</l>
+                  <l>
+                     <hi>Though the cold Zone ſhould gird with Art,</hi>
+                  </l>
+                  <l>
+                     <hi>Or ribs of Ice immure a heart,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet ribs of Ice would thaw with Love,</hi>
+                  </l>
+                  <l>
+                     <hi>And the cold Zone would torrid prove.</hi>
+                  </l>
+               </lg>
+               <stage>Enter the Lady, and with her another Lady in the habit of a Shepherdeſs.</stage>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Madam. I've met with a kind Shepherdeſs,</l>
+                  <l>Who vows ſhe will take part in our diſtreſs.</l>
+               </sp>
+               <pb n="16" facs="tcp:56904:12"/>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Kind Maid I would not have thee change thy ſtate,</l>
+                  <l>And for our ſakes become unfortunate,</l>
+               </sp>
+               <sp>
+                  <speaker>Shepherdeſs.</speaker>
+                  <l>Madam,</l>
+                  <l>Pleaſe you to give me leave, I will attend</l>
+                  <l>Your ſate, 'till happineſs dos crown the end.</l>
+                  <stage>Selania and the other Lady whiſper.</stage>
+                  <l>I find they know me not; and this diſguiſe</l>
+                  <l>Dos hide diſtreſs'd <hi>Aſtragia</hi> from their eyes.</l>
+                  <l>I need not ask for to attend their fate,</l>
+                  <l>When as mine own makes me unfortunate.</l>
+                  <l>Though we were ſhipwrackt all, yet now I find,</l>
+                  <l>The gods in this our meeting do prove kind.</l>
+                  <l>My Siſter's Lov'd by one, whom I do Love,</l>
+                  <l>I will her Faith, and his Affection prove,</l>
+                  <l>I'le try if ſhe Love him; and then I'le know,</l>
+                  <l>Whether he Loves <hi>Aſtragia,</hi> or No.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Uxama <hi>diſguis'd, like a Shepherd, with a Hook in his hand.</hi>
+               </stage>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>What are you? are you Stars fell from the Skies?</l>
+                  <l>Or Apparitions which deinde mine eyes?</l>
+                  <l>Speak if like me, you be of humane Race.</l>
+                  <l>What make you all thus early at this place?</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Coming along laſt night, we loſt our way,</l>
+                  <l>And waited here the conduct of the day.</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>Pleaſe you ſweer Ladies to accept of mine?</l>
+                  <l>Where lies the place, for which you do deſign?</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>In <hi>Italy.</hi> I fear w'are far from thence.</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>Th'Imperial City's not far diſtant hence.</l>
+               </sp>
+               <stage>Selania ſeems tranſported.</stage>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Thanks you tempeſtuous Seas. How things ſucceed</l>
+                  <l>When ſhipwracks are ſo fortunate decreed.
+<stage>Aſide.</stage>
+                  </l>
+                  <l>Chance hath preferr'd my wiſhes, and I'm come,</l>
+                  <l>Where I ſhall ſee <hi>Oranges</hi> now at <hi>Bonee.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>What's that! <hi>Oranges!</hi> do you know that name?</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>That name adds a new fewell to my flame.
+<stage>Aſide.</stage>
+                  </l>
+               </sp>
+               <pb n="17" facs="tcp:56904:12"/>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>A Pris'ner call'd <hi>Oranges</hi> as 'tis ſaid,</l>
+                  <l>Muſt put the Garland on great <hi>Pompey's</hi> head,</l>
+                  <l>But then muſt die. For <hi>Pompey</hi> thinks it good,</l>
+                  <l>Two of the Enſigns ſhould be ſteept in's blood.</l>
+                  <stage>Selania ſwouns, the others help her.</stage>
+                  <l>Then hung in <hi>Janus</hi>'s Temple, for to be</l>
+                  <l>The bloody Trophies of his Victory.</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Help, Help, the Lady Swouns.—</l>
+               </sp>
+               <stage>Exit Shepherdeſs.</stage>
+               <stage>Uxama helps</stage>
+               <stage>Enter a Souldier.</stage>
+               <sp>
+                  <speaker>Sould.</speaker>
+                  <l>— Hold Raviſher.</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>It is this Lady not thy ſword I fear.</l>
+               </sp>
+               <sp>
+                  <speaker>Sould.</speaker>
+                  <l>What didſt thou think of two to make a Rape,</l>
+                  <l>And that juſt Heaven would wink at thy eſcape?</l>
+                  <l>Thou pay'ſt thy life for injur'd innocence.</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>Lend here thy help, o prithee get thee hence.</l>
+               </sp>
+               <sp>
+                  <speaker>Sould.</speaker>
+                  <l>Defend thy ſelf, or elſe ſubmit to death.</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>Poor Criminals tamely may reſign their breath;</l>
+                  <l>The juſtice of my cauſe dos bid me ſtand</l>
+                  <l>In oppoſition to the Hectors hand.
+<stage>They fight.</stage>
+                  </l>
+               </sp>
+               <stage>Enter the Shepherdeſs.</stage>
+               <sp>
+                  <speaker>Shepherdeſs.</speaker>
+                  <l>Hold Hold, —</l>
+                  <l>Can pitty be a crime? he brought relief,</l>
+                  <l>Unto a Lady almoſt dead with grief.</l>
+               </sp>
+               <stage>
+                  <hi>They fight on, The Shepherdeſs takes an Arrow out of the Ladies Quiver, and throws at the Souldier, at which</hi> Uxama <hi>runs in and diſarms him.</hi>
+               </stage>
+               <stage>The Shepherdeſs receives a ſmall wound.</stage>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>The wound's not deep I hope.—</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>— Now thy own Blade</l>
+                  <l>Sends thy black Soul to the infernal Shade.</l>
+                  <l>But 'twere a crime, if haſty paſſion ſhould</l>
+                  <l>Before her blood's wip't off, let out thy blood.
+<stage>He wipes the ſword.</stage>
+                  </l>
+                  <l>Will you inflict his death or elſe ſhall I?
+<stage>The Souldier claps behind the Lady.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Sould.</speaker>
+                  <l>You ſhall this armour pierce before I dye.</l>
+               </sp>
+               <sp>
+                  <speaker>Lady</speaker>
+                  <l>Hold, Hold. Let him not die at all for us.
+<stage>
+                        <g ref="char:V">Ʋ</g>xama paſſeth at him.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Sould.</speaker>
+                  <l>Thanks to my Armour which defends me thus.</l>
+               </sp>
+               <pb n="18" facs="tcp:56904:13"/>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>Will you ſave him who ſought to ruine us?</l>
+               </sp>
+               <sp>
+                  <speaker>Selania.</speaker>
+                  <l>Hold Hold. Give him his ſword—
+<stage>paſſeth at him.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>—Here Souldier take</l>
+                  <l>Your Sword, thank them, and blame your raſh miſtake.</l>
+               </sp>
+               <stage>Gives him his Sword, he lets go the Lady, and ſpeaks to the Shepherdeſs.</stage>
+               <sp>
+                  <speaker>Sould.</speaker>
+                  <l>I humbly thank your mercy, but I crave</l>
+                  <l>You'd take away that Life, which you now ſave.</l>
+                  <l>For ſince I ſpilt your blood, you juſtly may,</l>
+                  <l>Let out all mine, and then thoſe drops repay.
+<stage>He profers his ſword.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Shepherdeſs.</speaker>
+                  <l>Mercy prevails with me, it is not good</l>
+                  <l>That drops ſhould be repaid with ſtreams of blood.</l>
+               </sp>
+               <sp>
+                  <speaker>Sould.</speaker>
+                  <l>Have I when <hi>Pompey</hi> yerſt did <hi>Spain</hi> invade,</l>
+                  <l>Cut through the Spaniſh Squadrons with my Blade?</l>
+                  <l>Have I of times through bloody dangers run,</l>
+                  <l>Outfac'd grim-War, and valiant actions done?</l>
+                  <l>Contemning death, I alwayes did ingage,</l>
+                  <l>Where war, and ſlaughter ſeemed moſt to rage.</l>
+                  <l>Knowing that conqueſt yields but little honour,</l>
+                  <l>If bloody dangers do not wait upon her.</l>
+                  <l>Well.</l>
+                  <l>It never ſhall be ſaid I loſt the Day,</l>
+                  <l>And conquer'd by a Shepherd went away.</l>
+                  <l>For here I vow, I'le not my ſhame outlive,</l>
+                  <l>But do refuſe that life, which you would give.</l>
+                  <stage>
+                     <hi>He goes to fall on his Sword,</hi> Uxama <hi>with his book, ſtrikes the ſword from under him, the Souldier takes the Dart, ſtrikes himſelf, and falls.</hi>
+                  </stage>
+                  <l>What weapon was more fit then this? ſince I</l>
+                  <l>Gave you a wound with mine, by yours I die.</l>
+               </sp>
+               <stage>
+                  <hi>A Parchment and Keyes fall from him Which are taken up by</hi> Uxama.</stage>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>What gen'rous ſpirits theſe brave Romans have,</l>
+                  <l>Their lives once blur'd with ſhame, they will not ſave.</l>
+                  <l>Who like theſe gallant Romans, thus dare dye,</l>
+                  <l>May brave their Fate, and fortune may defie.</l>
+                  <stage>Uxama opens the Parchment and reads.</stage>
+                  <floatingText type="letter">
+                     <body>
+                        <p>
+                           <hi>Theſe are to ſatisfie all, whom it may concern, that M.</hi> Rivulus <hi>hath
+<pb n="19" facs="tcp:56904:13"/>leave to be abſent from the Army for the ſpace of a Moneth, during which time he is appointed by the order of</hi> Pompey <hi>the Great, to overſee and take into his Cuſtody the Spaniſh Priſoners; and more<g ref="char:EOLhyphen"/>over he ſhall order every Pris'ner to bear a Branch of Lawrel, upon the day of the celebration of</hi> Pompey<hi>'s Triumphs, in all ſubjection before the Conquerour.</hi>
+                        </p>
+                        <closer>
+                           <signed>M. Afranius.</signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <l>Thoſe are belike the Keys o'th' Priſon Gate.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Now my diſtreſs may make me fortunate. <hi>Aſide.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>
+                     <hi>M. Afranius!</hi>
+                  </l>
+                  <l>
+                     <hi>Afranius,</hi> one of <hi>Pompey</hi>'s Gen'rals, who</l>
+                  <l>In the late Spaniſh war did bravely do.</l>
+                  <l>Who ſtill with <hi>Varro</hi> and <hi>Petreius</hi> ſtays,</l>
+                  <l>And bloody Enſigns now in <hi>Spain</hi> diſplays.</l>
+                  <l>Ah my poor Countrey, by a fatal ſtroke,</l>
+                  <l>Brought in ſubjection to the Roman Yoke.</l>
+                  <l>If 'twere within my power to regain</l>
+                  <l>My Countrey's Priſtin freedom: then O <hi>Spain</hi>
+                  </l>
+                  <l>My life I would moſt willingly forego,</l>
+                  <l>That from my death, thou might'ſt Victorious grow.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Grant O kind Heaven this Shepherd prove my friend,</l>
+                  <l>For by his help I may attain my End.</l>
+                  <l>The Souldiers habit, and that Parchment may,</l>
+                  <l>Unto my Dear <hi>
+                        <g ref="char:V">Ʋ</g>xama</hi> make the way.
+<stage>Aſide.</stage>
+                  </l>
+                  <l>Thoſe Keyes if they unlock the Priſon Gate,</l>
+                  <l>May ſet him free, and may prevent his fate,</l>
+                  <l>And then <hi>Selania</hi> will be fortunate.</l>
+                  <l>I'le try him. —</l>
+                  <l>Kind Swain, I'd beg a favour at your hand.</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>Madam. You need not beg, but may command.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>If to your Countrey you ſuch kindneſs owe,</l>
+                  <l>Now free the Spaniards, and that kindneſs ſhow.</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>My love to <hi>Spain,</hi> with honour muſt agree.</l>
+                  <l>Honour ſayes No. Though love would ſet them free.</l>
+                  <l>The chaunce of War hath made them ſo.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>—What then</l>
+                  <l>Chaunce gives you means to ſet them free again.</l>
+               </sp>
+               <pb n="20" facs="tcp:56904:14"/>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>Ah Madam! Should I ſay that I do lye</l>
+                  <l>Bound with your Hair, and fetter'd by your Eye;</l>
+                  <l>Or ſhould I tell you that I do become,</l>
+                  <l>A greater Pris'ner here than they at <hi>Rome.</hi>
+                  </l>
+                  <l>Would you vouchſafe to ſet me free? Alone</l>
+                  <l>From you, I muſt my freedome have or none.</l>
+                  <l>Juſt ſo it fares with them. They Pris'ners be,</l>
+                  <l>'Till he who made them ſo, dos ſet them free.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Thoſe chains you talk'd of firſt, with greateſt eaſe,</l>
+                  <l>May be put on and off, as Pris'ners pleaſe,</l>
+                  <l>Witchcraft hath Spells like theſe; what one dos chain,</l>
+                  <l>A nobler Beauty can releaſe again.</l>
+                  <l>But now your power's abſolute alone</l>
+                  <l>From you they muſt have freedome, or from none.</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>Madam!</l>
+                  <l>I bring my Life in queſtion, but for you,</l>
+                  <l>I'le venter both my life and fortune too.</l>
+                  <l>Would you have all releas'd or only one?</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>I'm moſt inclin'd for him, whom yerſt you ſaid,</l>
+                  <l>Muſt put the Garland on great <hi>Pompey</hi>'s head,</l>
+                  <l>But then muſt die. I only wiſh him free,</l>
+                  <l>Though Death's more wellcome, then Captivity.</l>
+                  <l>Propoſe your own reward.—</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>—If that I may,</l>
+                  <l>Your ſmiles I'le only covet for my pay.</l>
+               </sp>
+               <stage>Uxama <hi>and</hi> Selania <hi>whiſper. She gives him a Letter.</hi>
+               </stage>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>This Shepherd ſure is ſprung from noble Race,</l>
+                  <l>What ſweet behaviour, dos his perſon grace!</l>
+               </sp>
+               <sp>
+                  <speaker>Shepherdeſs.</speaker>
+                  <l>No matter how deſcended from his Birth,</l>
+                  <l>The pureſt gold it ſelf was once but earth.</l>
+                  <l>They wear the badge of honour, who are known,</l>
+                  <l>Not by their Fathers actions, but their own.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Miſtake in them, will the deſign prefer,</l>
+                  <l>And your admittance get to th'Priſoner.</l>
+                  <l>That done, you by thoſe Keyes may ſet him free.</l>
+               </sp>
+               <sp>
+                  <speaker>Uxam.</speaker>
+                  <l>I'le be the author of his liberty.</l>
+                  <l>I find his Fate her pitty much doth move,</l>
+                  <l>I call it pitty, but I know 'tis love.
+<stage>Aſide.</stage>
+                     <stage>Exit.</stage>
+                  </l>
+               </sp>
+               <pb n="21" facs="tcp:56904:14"/>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Aſſiſt the Act you gods, who alwayes prize</l>
+                  <l>Mercy before the bleeding Sacrifice.</l>
+                  <l>Spare but <hi>Oranges</hi> Hecatombs I'le ſlay,</l>
+                  <l>And heaps of Incence on your Altars lay.</l>
+                  <l>But if ſuch meaner Offerings you deſpiſe,</l>
+                  <l>Spare him, and let me be the Sacrifice.
+<stage>Exeunt omnes.</stage>
+                  </l>
+               </sp>
+               <stage>Uxama <hi>returns and ſpeaks. Solus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>Since my <hi>Selania's</hi> death, I ne'r could find</l>
+                  <l>So rare a beauty, ſuch a matchleſs mind.</l>
+                  <l>But in this Lady, both have took ſuch place,</l>
+                  <l>Her vertuous mind ſeems Rival to her face.</l>
+                  <l>In all ſo like <hi>Selania,</hi> I muſt own,</l>
+                  <l>Souls ſurely have a Tranſmigration.</l>
+                  <l>Pardon <hi>Selania,</hi> if I love in her,</l>
+                  <l>Thoſe vertues which in thee I did preferr.</l>
+                  <l>Did not the Adriatick Sea intomb</l>
+                  <l>Thy Beauty, where the ſportive Fiſh do come,</l>
+                  <l>Not to devour, but unto Kiſſes bent.</l>
+                  <l>And from thy Lipps receive their nouriſhment.</l>
+                  <l>I ſhould have thought thee here, but 'tis I find</l>
+                  <l>Thy Picture, may it like thy Self prove kind.</l>
+                  <l>Had not a gen'rous Youth obſerv'd the waves.</l>
+                  <l>How eagerly they op't their liquid graves,</l>
+                  <l>As if ambitiouſly the waves were bent,</l>
+                  <l>Each ſtriv'd to be thy weeping Monument.</l>
+                  <l>Had not he ſeen thee drowned, who muſt thank</l>
+                  <l>Kind Heaven for his ſafety on a Plank,</l>
+                  <l>I ſhould have vow'd thee living; but I find</l>
+                  <l>Thou'rt gone; but yet in her thou'rt left behind.</l>
+                  <l>But why think I of Love? when I muſt be</l>
+                  <l>The Author, of her Lovers Liberty.</l>
+                  <l>Theſe Keys muſt ſet him free, or elſe he dies.</l>
+                  <l>Suppoſe I ſuffer it, it may ſuffice,</l>
+                  <l>If I pretend I came too late, or ſay,</l>
+                  <l>Strong Guards of Souldiers, at the Gates did ſlay.</l>
+                  <l>But can I thus reſolve, and think I love?</l>
+                  <l>When I not faithful, but perfidious prove.</l>
+                  <pb n="22" facs="tcp:56904:15"/>
+                  <l>Or think that love, can like the <hi>Phoenix</hi> riſe,</l>
+                  <l>From out her Lovers Aſhes, when he dyes!</l>
+                  <l>Ah love all thy ſuggeſtions are in vain,</l>
+                  <l>What love commands, my honour dos reſtrain.</l>
+                  <l>I'le go and ſet him free, although I be,</l>
+                  <l>The Author of mine own Captivity.
+<stage>Exit.</stage>
+                  </l>
+               </sp>
+               <stage>The Scene is Rome.</stage>
+               <stage>Enter two Senators in Gowns.</stage>
+               <sp>
+                  <speaker>1 <hi>Sen.</hi>
+                  </speaker>
+                  <l>Sure of this City there can come no good,</l>
+                  <l>Whoſe new built walls were bath'd with humane blood.</l>
+                  <l>Inhumane Founder, muſt thy Brother dye?</l>
+                  <l>Thou from a <hi>Wolf</hi> did'ſt ſuck the Cruelty.</l>
+               </sp>
+               <sp>
+                  <speaker>2 <hi>Sen.</hi>
+                  </speaker>
+                  <l>I fear thoſe Twins nurſt by a <hi>Wolf</hi> portend,</l>
+                  <l>Some homeborn <hi>Wolf</hi> will ſpoil her in the end.</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Sen.</hi>
+                  </speaker>
+                  <l>
+                     <hi>Caeſar</hi> they ſay and <hi>Craſſus</hi> did combine,</l>
+                  <l>And <hi>Pompey</hi> too in a moſt high deſign,</l>
+                  <l>To ſhare the Roman Greatneſs, but the death</l>
+                  <l>Of <hi>Craſſus</hi> and of <hi>Julia</hi> give her breath.</l>
+                  <l>She, being <hi>Caeſar</hi>'s Daughter, He, his friend,</l>
+                  <l>Do by their deaths, give the deſign an end.</l>
+                  <l>Whil'ſt <hi>Julia</hi> liv'd ſhe did debar all ſtrife</l>
+                  <l>Betwixt them two, one's Daughter, t'other's Wife.</l>
+                  <l>Thoſe Twins of Fame, then which the World affords,</l>
+                  <l>None more ambitious, none more potent Lords.</l>
+               </sp>
+               <sp>
+                  <speaker>2 <hi>Sen.</hi>
+                  </speaker>
+                  <l>
+                     <hi>Caeſar</hi> and <hi>Pompey</hi> both do ſtrive I know,</l>
+                  <l>Like neighbouring <hi>Cedars</hi> which ſhall higheſt grow;</l>
+                  <l>Whoſe lofty tops, when ſhaken with the Wind,</l>
+                  <l>Fall foule upon each other; thus you'l find</l>
+                  <l>Whileſt for vain glory equally they ſtrive,</l>
+                  <l>The one the other's Ruine will contrive.</l>
+                  <l>But Heavens prevent; the props once took away,</l>
+                  <l>The Building ſoon dos run into decay.
+<stage>Exeunt.</stage>
+                  </l>
+               </sp>
+               <pb n="23" facs="tcp:56904:15"/>
+               <stage>The Scene continues.</stage>
+               <stage>Enter the Shepherdeſs in mans Apparel.</stage>
+               <sp>
+                  <speaker>Shep.</speaker>
+                  <l>I've try'd my Siſters Lover, and I find,</l>
+                  <l>That he affects her with a conſtant mind.</l>
+                  <l>And now in this Diſguiſe, I mean to try,</l>
+                  <l>Her love to him, and prove her Conſtancy.</l>
+                  <l>And if I find ſhe do inconſtant prove,</l>
+                  <l>Her falſhood I will expiate by my love.</l>
+                  <l>I then will tell him that I love; and he,</l>
+                  <l>What he once ſought in her, ſhall find in me.</l>
+                  <l>
+                     <hi>Aſtragia</hi> Loves, but will ſuppreſs her flame,</l>
+                  <l>Unleſs my Siſter firſt reſign her Claim.</l>
+                  <l>
+                     <hi>Selania</hi> and my Siſter ſav'd, I find,</l>
+                  <l>The gods ſeem'd cruel, to appear more kind.</l>
+                  <l>No ſooner I arriv'd, but loe I found</l>
+                  <l>An armed man, lie ſleeping on the ground.</l>
+                  <l>I humbly kiſt the Shoar, and Heavens did thank,</l>
+                  <l>For my protection, on a floating Plank.</l>
+                  <l>The Souldier wak'd, and ſighing oft did ſay.</l>
+                  <l>Have you not heard of one <hi>Selania?</hi>
+                  </l>
+                  <l>I ſaid in ſhort, I ſaw her caſt away.</l>
+                  <l>He tore his hair, with paſſion ſo poſſeſt,</l>
+                  <l>The Sea ſeem'd calm, to th' Tempeſt in his breaſt.</l>
+                  <l>Sure it was rais'd from Love. When Windmils go,</l>
+                  <l>'Tis only Wind that can tranſport them ſo.</l>
+                  <l>Would I could meet him that I might excuſe</l>
+                  <l>The raſh report, and tell him better news.</l>
+                  <l>
+                     <hi>Selania</hi> lives. —</l>
+                  <l>— On Planks we ſafely find,</l>
+                  <l>When gods are Pilots, and their breath the wind.</l>
+               </sp>
+               <trailer>Finis Actus Secundi.</trailer>
+            </div>
+            <div n="3" type="act">
+               <pb n="24" facs="tcp:56904:16"/>
+               <head>ACTUS III. SCENA PRIMA.</head>
+               <stage>The Scene is Italy.</stage>
+               <stage>Caeſar, <g ref="char:V">Ʋ</g>alerius, Curio, Souldiers.</stage>
+               <stage>Caeſar <hi>and</hi> Valerius <hi>in private Conference.</hi>
+               </stage>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>
+                     <hi>VAlerius</hi> No. I firmly have deſign'd,</l>
+                  <l>If favours will not, by conſtraint to bind.</l>
+                  <l>
+                     <hi>Curio</hi> with theſe ſhall to the Senate go,</l>
+                  <stage>Curio Bows.</stage>
+                  <l>And give 'um notice what I mean to do.</l>
+                  <stage>Letters.</stage>
+                  <l>When they do underſtand my full intent,</l>
+                  <l>Perhaps they'l them ceaſe to be inſolent.</l>
+                  <l>But if they ſhould accept what I propoſe,</l>
+                  <l>You need not my intentions then diſcloſe.</l>
+                  <l>In vain we do beſiege the yielding Town.</l>
+                  <l>Who by a ſmile can conquer, needs not frown.</l>
+               </sp>
+               <stage>Caeſar <hi>in private conference with</hi> Curio.</stage>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>I fear whil'ſt <hi>Caeſar</hi> dos ſo high aſpire,</l>
+                  <l>That his ambition will ſet <hi>Rome</hi> on fire.</l>
+                  <l>I know the Senate with unlevel'd eyes,</l>
+                  <l>Look on his greatneſs, through a falſe diſguiſe;</l>
+                  <l>Pretending Love, when they intend to do,</l>
+                  <l>All that their hate and pride can prompt them to.</l>
+                  <l>
+                     <hi>Caeſar Romes</hi> Empire hath o're Kingdoms ſpread,</l>
+                  <l>Who where he came or lookt, ſtill conquered.</l>
+                  <l>Hence ſprings their hate; ſhall Stars that ſhine leſs bright.</l>
+                  <l>Envy the Sun, whence they derive their Light?</l>
+                  <l>I wiſh his Letters may acceptance find,</l>
+                  <l>Or elſe ſhee'l know, too ſoon what he'has deſign'd.</l>
+                  <l>When he infeſts her, with inteſtin Wars,</l>
+                  <l>And Like a Viper, through Her bowels tears.</l>
+               </sp>
+               <pb n="25" facs="tcp:56904:16"/>
+               <stage>Caeſar <hi>gives</hi> Curio <hi>the Letters trim'd with Lawrell. And ſpeaks.</hi>
+               </stage>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>I'le have it ſo.—</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>—Can Civil War procure?</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>War may make <hi>Rome</hi> leſs proud, me more ſecure.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>We ill ſecure our ſelves by ſhedding blood.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>We may leſs evils act, for greater good.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>Yet Sir remember by this fatal ſtrife</l>
+                  <l>You ruine her, who firſt did give you life.</l>
+                  <l>
+                     <hi>Rome,</hi> Who o're Mighty Kingdoms dos command.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>The greater part, were conquered by this hand.</l>
+                  <l>But as, when on Foundations we do lay</l>
+                  <l>Too great a weight, the building dos decay:</l>
+                  <l>So <hi>Romes</hi> own greatneſs for her ruine calls,</l>
+                  <l>Who under inſupported Glory falls.</l>
+                  <l>Thus <hi>Siſyphus</hi> his ſtone, when with much pain</l>
+                  <l>Rowl'd up the Hill, ſoon tumbles down again.</l>
+                  <l>Nature a term of greatneſs dos aſſign,</l>
+                  <l>Which once being paſt, things more and more decline.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>Nations ſubdu'd whileſt we at home do fight,</l>
+                  <l>By ſafe incurſions may regain their right.</l>
+                  <l>As when two Lyons quarrel for the prey,</l>
+                  <l>In comes a Wolf, and carries it away.</l>
+                  <l>Sir, be advis'd, let it be never ſaid</l>
+                  <l>That <hi>Rome</hi> was ruin'd, by the Man She bred.</l>
+                  <l>The glorious Sun, whoſe Rayes ſalute the Earth,</l>
+                  <l>Untill her teeming womb gives all things birth.</l>
+                  <l>Dos not conſume her, though ſhe often lies,</l>
+                  <l>And dos Eclipſe his Glory from our eyes.</l>
+                  <l>Sir, 'Tis enough that all the world dos know,</l>
+                  <l>That <hi>Rome</hi> her greatneſs to your hand ſhould owe.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>Heavens! ſhould owe! Your ſpirits faint I find,</l>
+                  <l>What! thoughts of Civil War do ſcare your mind.</l>
+                  <l>Should owe! dos ſhe not then? if ſhe deny,</l>
+                  <l>My Sword ſhall give her ſawcy tongue the lye.</l>
+                  <l>You did adviſe me to go arm'd: 'tis ſtrange</l>
+                  <l>Your Council in ſo ſhort a time ſhould change.</l>
+               </sp>
+               <pb n="26" facs="tcp:56904:17"/>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>Your pardon Sir, 'twas my adviſe 'tis true.</l>
+                  <l>But now you may a better courſe purſue.</l>
+                  <l>Councils like Seamen as they cauſe do find,</l>
+                  <l>Muſt tack about according to the wind.</l>
+                  <l>Firſt Sir, for <hi>Cato</hi> and <hi>Marcellus</hi> ſend,</l>
+                  <l>A ſeeming friendſhip may make each your friend.</l>
+                  <l>Perhaps to your propoſals they'l conſent,</l>
+                  <l>Oblige the Senate, and the War prevent.</l>
+                  <l>Not that I fear a War, but ſhall obey,</l>
+                  <l>And follow dangers, when you lead the way</l>
+                  <l>But yet 'tis madneſs, if we chuſe to run</l>
+                  <l>Into a ſtorm, whoſe fury we may ſhun.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>They'l not their ſafety forfeit at that rate,</l>
+                  <l>To truſt themſelves with me, whom they do hate.</l>
+                  <l>My Letter ſpeaks 'um fair, if that won't do,</l>
+                  <l>I ſhall expect the reſt be told by you.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>—Sir, I obey your Will.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>—'Tis fit,</l>
+                  <l>Since <hi>Pompey</hi>'s Army, that they mine admit.</l>
+                  <l>Elſe I may juſtly think they do deſign,</l>
+                  <l>To ſide with <hi>Pompey,</hi> and my Cauſe decline.</l>
+                  <l>Has he done more for <hi>Rome</hi> then I have done?</l>
+                  <l>Who have proud Nations to her Empire won,</l>
+                  <l>Th' outragious Gauls, who with their num'rous ſwarms,</l>
+                  <l>Made Macedonians tremble at their Arms;</l>
+                  <l>Who waſting <hi>Aſia,</hi> and diſpoſing things,</l>
+                  <l>Did inſolently make and unmake Kings</l>
+                  <l>This hand did Conquer; There I gave decrees,</l>
+                  <l>Then wounded <hi>Neptune</hi>'s boſome with wing'd Trees.</l>
+                  <l>The Gauls no more preſuming of their might,</l>
+                  <l>I did the World divided Britains fight.</l>
+                  <l>The Germans from their Youth inur'd to War,</l>
+                  <l>Whil'ſt neither Hills nor Seas my Courſe could bar;</l>
+                  <l>Whoſe Martial minds ſtill haughty thoughts have bred,</l>
+                  <l>Yerſt ſaw the Rhene, with their own blood run red.</l>
+                  <l>Nations where e're I went, did trembling ſtand,</l>
+                  <l>Who with my Sword, carr'd Conqueſt in my hand.</l>
+                  <pb n="27" facs="tcp:56904:17"/>
+                  <l>Nor did they ever think themſelves ſecur'd,</l>
+                  <l>Though moted in with Seas, or Hills immur'd.</l>
+                  <l>Thoſe Eagles for their prey, have Kingdoms won,</l>
+                  <l>And conquer'd both the Manſions of the Sun,</l>
+                  <l>Nothing could ever yet controul their force,</l>
+                  <l>Nor Alps, nor Pyren Hills could ſtop their Courſe,</l>
+                  <l>Whoſe wings with Conqueſt imp't, ſpread uncontroul'd,</l>
+                  <l>Diſdaining Southern heat, and Northern cold.</l>
+                  <l>The Acts that I have done, my glories raiſe,</l>
+                  <l>My Deeds in number do exceed my Daies.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>You by your Conqueſts have inlarg'd <hi>Rome</hi>'s Bounds;</l>
+                  <l>By which they think your Power too much abounds.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>Who dare to lodge ſuch thoughts within their minds?</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>They whom your bright Meridian glory blinds.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>They who do think my glories to ſuppreſs,</l>
+                  <l>As well may think to make the Sun ſhine leſs.</l>
+                  <l>Thou think'ſt in vain proud <hi>Rome</hi> my high-born Soul,</l>
+                  <l>Will Cringe ſo low, as to let thee controul.</l>
+                  <l>No, <hi>Rome</hi> thou doſt miſtake; though <hi>Jove</hi> ſhould ſhroud,</l>
+                  <l>Or caſe thee in the bowels of a Cloud,</l>
+                  <l>Yet Gyant-like, I'd heap up Hills ſo high,</l>
+                  <l>If he'd not yield thee up, I'd ſcale his Skie.</l>
+                  <l>Should he tranſport thee paſt remoteſt Seas,</l>
+                  <l>Or carry thee to the Antipodes,</l>
+                  <l>I'd paſs thoſe Seas, or ſhute ſome Gulf and go,</l>
+                  <l>To ſcourge thy Damn'd ingratitude below.</l>
+                  <l>I would purſue thee ev'ry way, where force,</l>
+                  <l>Could not arrive, I'd damn thee with my Curſe.</l>
+               </sp>
+               <stage>Caeſar <hi>walks in a Paſsion.</hi>
+               </stage>
+               <stage>Valerius <hi>and</hi> Curio <hi>whiſper.</hi> Caeſar <hi>comes and ſpeaks.</hi>
+               </stage>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>
+                     <hi>Valerius!</hi>
+                  </l>
+                  <l>What do you think is fitteſt to be done?</l>
+               </sp>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>The way that's ſafeſt Sir 'tis beſt to run.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>My ſafety dos depend upon your Swords.</l>
+               </sp>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>Love greater ſafety then our ſwords affords.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>Nought to a Prince can more inconſtant prove,</l>
+                  <l>Then ſtrength that's builded on the peoples love.</l>
+                  <pb n="28" facs="tcp:56904:18"/>
+                  <l>Unhappy Monarch, whoſe ill founded State,</l>
+                  <l>Stands on his Subjects Love, or on their hate.</l>
+                  <l>He holds at Will the Scepter, and muſt be,</l>
+                  <l>A Tenant to his Crown by Courteſie.</l>
+                  <l>His ſpirit's mean, Who dares not to controul,</l>
+                  <l>Is made a Subject by his daſtard Soul.</l>
+               </sp>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>Love's a foundation that will ne're decay.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>Yet oft in Ruine doth the builder lay.</l>
+                  <l>The Peoples love may like the Sea awhile,</l>
+                  <l>Whil'ſt Calms ſalute her ſurface, ſeem to ſmile,</l>
+                  <l>But by the Winds ſaluted, by and by,</l>
+                  <l>The rough imbrace, makes her invade the Skie.</l>
+                  <l>Whoſe foaming Billows poſt unto the Shore,</l>
+                  <l>And flit for fury, that they can't do more.</l>
+                  <l>Thus in affection do the Vulgar prove.</l>
+                  <l>Inconſtant. There's the Weathercock of Love.</l>
+                  <l>Lend me brave Souldiers, but your Swords, and where</l>
+                  <l>
+                     <hi>Rome</hi> dos deny to Love, I'le make her fear.</l>
+               </sp>
+               <sp>
+                  <speaker>Val. &amp; Curio.</speaker>
+                  <l>Our Swords and Lives are yours great Sir.—</l>
+               </sp>
+               <sp>
+                  <speaker>Sould.</speaker>
+                  <l>Vivat Caeſar.— Vivat Caeſar.—</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>
+                     <hi>Jove</hi> would not firmly in his Heaven ſtand,</l>
+                  <l>But that he holds the Thunder in his hand,</l>
+                  <l>That Idol, Greatneſs, which moſt men adore,</l>
+                  <l>Is gotten with great pains, and kept with more.</l>
+                  <l>It never can be truly kept ſecure,</l>
+                  <l>But by thoſe means, which did it firſt procure.</l>
+                  <l>But I waſte time.—<hi>Curio</hi> make haſte to <hi>Rome,</hi>
+                  </l>
+                  <l>And tell the Senate that from Me you come.</l>
+                  <l>Give 'um My Letters, if they do command,</l>
+                  <l>That <hi>Pompey</hi> all his Army ſhall disband,</l>
+                  <l>I to the ſame conditions then will ſtand,</l>
+                  <l>And Mine diſmiſs, if not, I think it Juſt,</l>
+                  <l>Since they to His, I to my Army truſt.</l>
+                  <l>And then, what they refuſe, I'le force, and Might</l>
+                  <l>Shall be the Arbitrator of my Right.</l>
+                  <l>And when by <hi>Pompey</hi>'s Army, I'm withſtood,</l>
+                  <l>I'le march to <hi>Rome,</hi> through reeking fields of blood.</l>
+                  <pb n="29" facs="tcp:56904:18"/>
+                  <l>Thus what a Torrent's force impeaches, more,</l>
+                  <l>Swels th' uncontrouled ſtreams, and makes them roar.</l>
+                  <l>When Pyramids do burn, whoſe tops aſpire,</l>
+                  <l>Engines are uſeleſs, and can't reach the fire.</l>
+               </sp>
+               <stage>
+                  <hi>Excunt,</hi> Caeſar, Valerius, <hi>and Souldiers at one door.</hi> Curio <hi>at the other.</hi>
+               </stage>
+               <stage>The Scene lyes in Italy.</stage>
+               <stage>Enter Aſtragia habited as before leading her ſiſter.</stage>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>I cannot in my Language periods find,</l>
+                  <l>For to expreſs the Vertues of your Mind.</l>
+                  <l>Rhet'rick's too ſcant; all Metaphors in one,</l>
+                  <l>Speaking of You, are diminution.</l>
+                  <l>Hyperbole's no figure, and in this</l>
+                  <l>Auxeſis too is but a Mioſis.</l>
+                  <l>My tongue mine Admiration can't impart,</l>
+                  <l>Accept mine eyes, as Agents for my heart.</l>
+                  <l>Madam 'tis juſt you ſhould accept the ſame,</l>
+                  <l>Since from your eyes mine admiration came.</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>I can't with dumb Embaſſadors conferr,</l>
+                  <l>Fond Youth thine eyes want an Interpreter.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>Madam the Language may be underſtood,</l>
+                  <l>As eaſie, as a dumb Man's Signes for food.</l>
+                  <l>And as to him you'd charitable prove,</l>
+                  <l>So let me now experience your love.</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Can'ſt thou love one, thou never ſaw'ſt till now?</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>Like motion, Love dos in an inſtant grow.</l>
+                  <l>I cannot doubt your vertues ſince I know,</l>
+                  <l>Diſtreſs and vertue, both together go.</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>I am diſtreſs'd upon the ſcore of Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>Upon that ſcore, I would diſtreſſed prove.</l>
+                  <l>But Madam can diſtreſs from Love ariſe,</l>
+                  <l>When as all bleſſings Center in your eyes?</l>
+                  <l>Your Lover's abſence can you count diſtreſs,</l>
+                  <l>When you may tread new wayes to happineſs?</l>
+               </sp>
+               <pb n="30" facs="tcp:56904:19"/>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Who do new Lovers before old preferr,</l>
+                  <l>Walking new paths of Love may chance to err.</l>
+                  <l>And whil'ſt they quit the Courſe, they ſtear'd before,</l>
+                  <l>May leave the Indies, for a Barren Shore.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>Purſuing Love you cannot go aſtray,</l>
+                  <l>When vertue guides your beauty in the way.</l>
+                  <l>Who'd go to th' Indies, if at home they could</l>
+                  <l>Find Pearls of equal price, and mines of Gold?</l>
+                  <l>So that Love's progreſs now may ended be,</l>
+                  <l>If what you ſought in him, you find in me.</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Much more ſweet youth, unto thy vertue's due.</l>
+                  <l>I bluſh to tell thee, that I Love thee too.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>But may I hope that you Love me alone?</l>
+                  <l>For Love reſents a Rival in his Throne.</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Ah! Gen'rous Youth, thou art the only gueſt,</l>
+                  <l>That I admit to lodge within my Breſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>Say, Madam, have you ever Lov'd before?</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Not on my own, but on my Siſters ſcore.</l>
+                  <l>Diſtreſs'd <hi>Aſtragia,</hi> where ſo e're thou art,</l>
+                  <l>Thy Siſter means to give away thy heart.</l>
+                  <l>I know thou Lov'ſt the man, who once Lov'd me,</l>
+                  <l>But in thy Love, he may more happy be.</l>
+                  <l>I therefore do reſign all claim; that ſhe</l>
+                  <l>In him, may happy prove; and I in thee.</l>
+                  <stage>Aſtragia weeps.</stage>
+                  <l>But why theſe tears ſweet Boy? You muſt not cry,</l>
+                  <l>Unleſs you mean to drown me in your eye.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>How can I chuſe but weep, to think I ſhou'd,</l>
+                  <l>Deceive a Siſter, which dos prove ſo good.</l>
+                  <l>Ah Madam I have cauſe to weep, you'l ſay,</l>
+                  <l>When you do know I am <hi>Aſtragia.</hi>
+                  </l>
+               </sp>
+               <stage>Pulls off her Peruke.</stage>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Propitious Gods with bleſſings don't deſtroy,</l>
+                  <l>We wept for ſorrow once, but now for Joy.</l>
+                  <l>How quickly my affection thou had'ſt won,</l>
+                  <l>Thy vertue's ſtrong, that could ſubdue ſo ſoon.</l>
+                  <l>What greater bleſſing could there be, then this?</l>
+                  <l>She, who my Lover was, My Siſter is.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>Whil'ſt others leave ſelf int'reſt to controul,</l>
+                  <l>Honour the Bias was, that lead thy Soul.</l>
+                  <pb n="31" facs="tcp:56904:19"/>
+                  <l>For what could cauſe thee to reſign thy claim?</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Becauſe I knew, yours was the nobler flame.</l>
+                  <l>Your Love exceeded mine: 'twas therefore fit,</l>
+                  <l>That to the ſtrong, the weaker ſhould ſubmit.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>Could you all this for poor <hi>Aſtragia</hi> do?</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Dear Siſter can I do too much for you?</l>
+                  <l>Not doing this, I ſhould unworthy prove,</l>
+                  <l>'Tis fit that honour ſhould give Laws to Love.</l>
+               </sp>
+               <stage>Exeunt.</stage>
+               <stage>The Scene is Rome.</stage>
+               <stage>Enter the two former Senators.</stage>
+               <sp>
+                  <speaker>1 <hi>Sen.</hi>
+                  </speaker>
+                  <l>The time yields nothing but diſtracting care,</l>
+                  <l>And gives a proſpect only to deſpair.</l>
+                  <l>Since <hi>Julia's</hi> death, <hi>Pompey</hi> aſpires ſo high,</l>
+                  <l>Admits no Rival, nor Equality</l>
+                  <l>And <hi>Caeſar</hi> is ſo great a Conquerour,</l>
+                  <l>He'l ne'r admit of a Superiour.</l>
+                  <l>And this I fear will cauſe Domeſtick Jarrs.</l>
+               </sp>
+               <sp>
+                  <speaker>2 <hi>Sen.</hi>
+                  </speaker>
+                  <l>Their Armies are ingag'd in forrain Wars.</l>
+                  <l>Part of great <hi>Pompey</hi>'s Army dos remain,</l>
+                  <l>Under the Valiant <hi>Afranius</hi> in <hi>Spain.</hi>
+                  </l>
+                  <l>
+                     <hi>Caeſar</hi>'s in <hi>Gallia,</hi> ſure they'l never come,</l>
+                  <l>And thence remove the Wars, to bring 'um home.</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Sen.</hi>
+                  </speaker>
+                  <l>Pray Heavens Amen. I wiſh they never may,</l>
+                  <l>I would not live to ſee that fatal Day.</l>
+                  <l>But ſhall I fear? Who with Ambition thirſt,</l>
+                  <l>Imbibe the poyſon, 'till at laſt they burſt.</l>
+                  <l>And with their ruine draw on thouſands more,</l>
+                  <l>And make it univerſal, on that ſcore.</l>
+                  <stage>
+                     <hi>Enter to them</hi> Uxama. <hi>A Boy bearing Lawrels after him, and Garlands.</hi>
+                  </stage>
+                  <l>Is this a Time for Triumphs? when we may</l>
+                  <l>Rather expect this Empire ſhould decay.</l>
+                  <l>Ah <hi>Rome,</hi> Thy greatneſs, dos draw on thy Fate,</l>
+                  <l>What <hi>Atlas</hi> can ſupport thy tott'ring State?</l>
+               </sp>
+               <sp>
+                  <speaker>2 <hi>Sen.</hi>
+                  </speaker>
+                  <l>How goes Report?—</l>
+               </sp>
+               <pb n="32" facs="tcp:56904:20"/>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>—Grave Senators! I hear</l>
+                  <l>News, which with terrour, will invade your eare.</l>
+                  <l>
+                     <hi>Curio</hi>'s Juſt now arriv'd, 'tis Thought that he,</l>
+                  <l>From <hi>Caeſar</hi> brings ſome dreadful Embaſſy.</l>
+                  <l>Whil'ſt <hi>Caeſar</hi> with his Army as they ſay,</l>
+                  <l>A day's march diſtant from the Town dos ſtay,</l>
+                  <l>Expecting his return from <hi>Rome;</hi> I fear,</l>
+                  <l>He'l turn your Triumphs to a bloody War.</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Sen.</hi>
+                  </speaker>
+                  <l>Wiſe <hi>Cato</hi> told the Senat as a friend,</l>
+                  <l>To what all <hi>Caeſar's</hi> deeds would turn i'th' end.</l>
+                  <l>If that his Pride were not controul'd in time,</l>
+                  <l>Made great by Conqueſts, He too high would clime.</l>
+                  <l>But Pride's beſt Curb'd, ſtill by as proud a one,</l>
+                  <l>A Diamond muſt cut a Diamond, or none.</l>
+                  <l>Therefore I think we wiſely did admit</l>
+                  <l>Great <hi>Pompey</hi>'s Army.—</l>
+               </sp>
+               <sp>
+                  <speaker>2 <hi>Sen.</hi>
+                  </speaker>
+                  <l>Ne'r think that <hi>Caeſar</hi> will to force ſubmit.</l>
+                  <l>He has an Army, and may come ſecure,</l>
+                  <l>And force by foul, what fair means won't procure.</l>
+                  <l>And when his force, by <hi>Pompey</hi>'s is withſtood,</l>
+                  <l>Our Eagles then will prey on Roman blood.</l>
+                  <l>Lo, when two Clouds of Fire and Water meet,</l>
+                  <l>They kiſs in Lightning, and in Thunder greet.</l>
+               </sp>
+               <stage>
+                  <hi>Exeunt Senators</hi> Uxama ſtayes.</stage>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>What are theſe troubles in the State? When I</l>
+                  <l>Reflect on thoſe, which in my Boſome lie?</l>
+                  <l>No Civil War, like that within my Breaſt,</l>
+                  <l>Where love and honour equally conteſt.</l>
+                  <l>Honour comes arm'd with Glory in her hand,</l>
+                  <l>And thus methinks ſhe ſpeaks: <hi>
+                        <g ref="char:V">Ʋ</g>xama</hi> ſtand.</l>
+                  <l>What muſt Love's paſſions thus diſtract thy mind?</l>
+                  <l>And muſt my Manſion, be to Love reſign'd?</l>
+                  <l>Can Love preſerve thy Name? 'tis I that muſt,</l>
+                  <l>Like to the <hi>Phoenix</hi> ſpring from out thy duſt.</l>
+                  <l>Love with thy body dies, but I controul,</l>
+                  <l>And keep thy name immortal like thy Soul,</l>
+                  <l>But now comes love, and thus methinks dos ſay,</l>
+                  <l>Doſt thou refuſe bold Rebel to obey?</l>
+                  <pb n="33" facs="tcp:56904:20"/>
+                  <l>Who take my Weapons from her eyes, and owe</l>
+                  <l>The Twiſt unto her hair which ſtrings my Bow.</l>
+                  <stage>
+                     <hi>Enter</hi> Selania <hi>undiſcover'd.</hi>
+                  </stage>
+                  <l>Eagles which build aloft, ſhall teach their Young,</l>
+                  <l>To try their Eyes at hers, and not the Sun.</l>
+                  <l>
+                     <hi>June</hi> ſtill reſides upon her Cheeks, and ows</l>
+                  <l>Unto her Breath, the perfumes of each Roſe.</l>
+                  <stage>He diſcovers her.</stage>
+                  <l>I muſt confeſs, I'm conuer'd by ſurpriſe,</l>
+                  <l>Love dos purſue too faſt, when honour flies.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Have you releas'd the Pris'ner?—</l>
+               </sp>
+               <sp>
+                  <speaker>Uxam.</speaker>
+                  <l>—Madam, he</l>
+                  <l>Has Liberty; but you have fetter'd me.</l>
+               </sp>
+               <stage>Aſide.</stage>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Did you appoint him, for to meet me here?</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xam.</speaker>
+                  <l>I thought the place not ſafe, the Priſon's near.</l>
+                  <l>But in a Pilgrims habit ſent him,—</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>—Whither?</l>
+               </sp>
+               <sp>
+                  <speaker>Uxam.</speaker>
+                  <l>Unto you Plains.—</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>—Will you conduct me thither?</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xam.</speaker>
+                  <l>Madam I wait upon you.—</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>—Since you prove</l>
+                  <l>Thus generous, Let that expreſs my Love.</l>
+               </sp>
+               <stage>Gives him a Purſe.</stage>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>I prize your favours, but refuſe the gold,</l>
+                  <l>The ſervice done for you ſhould not be ſold.</l>
+                  <l>The name of ſervant when't relates to you,</l>
+                  <l>Both payes the ſervice, and gives honour too.</l>
+               </sp>
+               <stage>Exeunt.</stage>
+               <stage>The Scene is ſome Italian Plain.</stage>
+               <stage>Enter Aſtragia nd her Siſter.</stage>
+               <stage>A Pilgrim is diſcover'd aſleep.</stage>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Ha.</l>
+                  <l>A weary Pilgrim ſleeping on the ground,</l>
+                  <l>Thy quiet breaſt is with contentment crown'd.</l>
+                  <l>Theſe freſh and fragrant Plains, thy Eyelids cloſe,</l>
+                  <l>With a ſecure, and undiſturb'd repoſe.</l>
+                  <pb n="34" facs="tcp:56904:21"/>
+                  <l>Here wandring Streams do in ſoft murmurs flye,</l>
+                  <l>And Court ſweet ſleep, to lodge within thine eye.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>Let's wake him.—</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>—Pilgrim awake, ariſe.
+<stage>Stamps with her foot.</stage>
+                  </l>
+                  <l>Chaſe away drowſie ſlumber from thine eyes.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Selania <hi>and</hi> Uxama.</stage>
+               <stage>The Pilgrim riſes.</stage>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Did you moſt holy Sir, a ſtranger ſee?</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>If that you mean the Pris'ner, this is He.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>You have miſtook.—</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>—There's no miſtake in it.</l>
+                  <l>
+                     <hi>Oranges</hi> never was in fetters yet.</l>
+                  <l>Unleſs you count the man in fetters lyes,</l>
+                  <l>Whom you have captiv'd by your powerfull eyes.</l>
+                  <l>Madam he lives, is free, and kept ſecure,</l>
+                  <l>By a Diſguiſe, I did for him procure.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Be bleſt good man for ever, ſince that breath</l>
+                  <l>Calls back my ſoul, both from deſpair and death.</l>
+                  <l>And dos <hi>Oranges</hi> live, you Powers divine,</l>
+                  <l>Your Altars daily ſhall with Incence ſhine.</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xam.</speaker>
+                  <l>What Labyrinth is this? things ſeem to me</l>
+                  <l>Riddles in love, and all a Myſterie.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>I hear his Voice.—</l>
+               </sp>
+               <sp>
+                  <speaker>Selan,</speaker>
+                  <l>—You fancy that you hear,</l>
+                  <l>I wiſh his happy Voice would bleſs my ear.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>But for a little time ſubdue your fears,</l>
+                  <l>His ſight ſhall bleſs your eyes, his voice your ears.</l>
+                  <l>Provide to meet him, at you Lawrel Grove.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>I ſhall not fail appointments made by love.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Thither I'le bring him to you.—</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>—May'ſt thou be</l>
+                  <l>Ever as happy, as thoul't then make me.
+<stage>Exeunt.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Uxam.</speaker>
+                  <l>Poor <hi>Semel,</hi> I now muſt try thy Fate,</l>
+                  <l>And burn in flames which I would ſhun too late.</l>
+                  <l>I by this Goddeſs ruin'd, thou by <hi>Jove,</hi>
+                  </l>
+                  <l>The one by Lightning, and the other by Love.
+<stage>Exit.</stage>
+                  </l>
+               </sp>
+               <trailer>Finis Actus Tertii.</trailer>
+            </div>
+            <div n="4" type="act">
+               <pb n="35" facs="tcp:56904:21"/>
+               <head>ACTUS IV. SCENA PRIMA.</head>
+               <stage>The Scene is the Capitol.</stage>
+               <stage>Muſick Playes a ſoft Strain.</stage>
+               <stage>
+                  <hi>Enter Lictors bearing bundles of Rods and Axes, before the two Con<g ref="char:EOLhyphen"/>ſuls, who hold a Garland of Lawrel betwixt them, after whom,</hi> Pompey <hi>bare-headed, in a Triumphant Gown, Next Senators. They aſcend the Degrees, Six Spaniſh Pris'ners, each bearing a bough of Lawrel, and a Garland of Graſs, uſher'd in by two bearing Enſigns, Crying out,</hi> Subacta Hiſpania <hi>twice. All plac'd, the Con<g ref="char:EOLhyphen"/>ſuls riſe and put the Garland on</hi> Pompey<hi>'s head.</hi>
+               </stage>
+               <sp>
+                  <speaker>Conſ.</speaker>
+                  <l>TRiumphant Lawrels we place on thy head,</l>
+                  <l>Who to our Empire <hi>Spain</hi> haſt conquered.</l>
+                  <l>
+                     <hi>Muſick Playes as before.</hi>
+                  </l>
+                  <l>
+                     <hi>Two Pris'ner's come out, and Cry</hi> Io Triumphe, <hi>twice.</hi>
+                  </l>
+                  <l>
+                     <hi>They lay down their Garlands and ſpeak.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Both.</speaker>
+                  <l>Garlands of Graſs We offer for to ſhow,</l>
+                  <l>That Land was conquer'd, where this Graſs did grow.</l>
+                  <l>
+                     <hi>Muſick Playes as before.</hi>
+                  </l>
+                  <l>
+                     <hi>Two more Cry</hi> Io Triumphe, <hi>twice, and do as the former.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Both.</speaker>
+                  <l>Theſe mighty Sir, we at your feet do lay,</l>
+                  <l>And all Subjection, to our Conquerour pay.</l>
+                  <l>
+                     <hi>The Laſt come out and do as before. Crying out</hi> Io Triumphe, <hi>twice:</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Both.</speaker>
+                  <l>Vouchſafe dread Conquerour to caſt down your eye,</l>
+                  <l>Upon theſe Emblems of your Victory.</l>
+                  <l>
+                     <hi>They take their places.</hi>
+                  </l>
+                  <l>
+                     <hi>The Muſick Playes aloud.</hi>
+                  </l>
+               </sp>
+               <stage>
+                  <hi>The Pris'ners run into the Meaſure of a Daunce. After a while, are interrupted by</hi> Fame, <hi>who comes winged, with a Trump in her hand, and thus ſpeaks to them, then to</hi> Pompey.</stage>
+               <sp>
+                  <speaker>Fame.</speaker>
+                  <l>No more.— No more.—</l>
+                  <pb n="36" facs="tcp:56904:22"/>
+                  <l>I am reſolv'd, that I my ſelf will fing</l>
+                  <l>Great <hi>Pompey</hi>'s Triumphs, and upon my Wing,</l>
+                  <l>Upon theſe golden Plumes, thy Fame ſhall Flie</l>
+                  <l>Unto both Poles, thoſe limits of the Skie.</l>
+                  <l>I Goddeſs <hi>Fame,</hi> will with thy Trumpet ſound,</l>
+                  <l>Each Accent of thy Name, where World is found.</l>
+                  <l>I'le reſcue thee from <hi>Time.</hi>—</l>
+               </sp>
+               <stage>Time winged, bald, &amp;c. interrupts Fame.</stage>
+               <sp>
+                  <speaker>Time.</speaker>
+                  <l>
+                     <hi>Fame</hi> Thou miſtak'ſt, thou doſt not know my Power,</l>
+                  <l>I Marble Monuments, and Braſs devour.</l>
+                  <l>I ſee proud Cityes often as I flye,</l>
+                  <l>Founded ſo ſtrong, they might my power defie.</l>
+                  <l>But when perhaps, I next take wing that way,</l>
+                  <l>Thoſe Cityes then, are run into decay.</l>
+                  <l>The aged <hi>Neſtor</hi> when compar'd with me,</l>
+                  <l>The Infant Boy dy'd in Minority.</l>
+                  <l>The Thred of Life by <hi>Lacheſis</hi> is ſpun;</l>
+                  <l>And all things dye, their fatal Glaſs once run.</l>
+                  <l>I to decay, the ſtrongeſt things do fend,</l>
+                  <l>Eagles and Ravens have one common End.</l>
+                  <l>The long liv'd Stagg, and Oak, do both at laſt,</l>
+                  <l>Reach to thoſe Points of <hi>Time,</hi> which ne're are paſt.</l>
+                  <l>Though ſtrength and years ſhould in one thing combine,</l>
+                  <l>Yet time will come, when they muſt both reſign.</l>
+                  <l>Now <hi>Fame;</hi> What think you, do you think I've Power,</l>
+                  <l>And that in time, I can his Name devour.</l>
+               </sp>
+               <stage>Fame pauſeth and ſpeaks.</stage>
+               <sp>
+                  <speaker>Fame.</speaker>
+                  <l>No, for the gods that power to me give,</l>
+                  <l>That though men dye, by me their names may live.</l>
+                  <l>What's mortal in that man, I leave to thee,</l>
+                  <l>But what's immortal, I do take to me.
+<stage>Exit Fame.</stage>
+                  </l>
+               </sp>
+               <stage>Envy appears ſeeming to have Snakes For her Treſſes, interrupts Time.</stage>
+               <sp>
+                  <speaker>Time.</speaker>
+                  <l>From me and Envie. —</l>
+               </sp>
+               <sp>
+                  <speaker>Envy.</speaker>
+                  <l>Speak for your Self bald pated fool, I will</l>
+                  <l>Let's Army caſt up Hills unto the Skie,</l>
+                  <l>To be the Trophies of his Victory,</l>
+                  <pb n="37" facs="tcp:56904:22"/>
+                  <l>Let him build Pyramids, or Temples raiſe,</l>
+                  <l>Or carve his Acts in Mauſolean Braſs.</l>
+                  <l>I'le ſcratch thoſe Hills to Duſt, that Winds again</l>
+                  <l>May blow'um, 'till they'r level'd with the Plain.</l>
+                  <l>Thoſe Pyramids and Temples I'le Eraſe,</l>
+                  <l>My <hi>Aqua fortis</hi> Teeth ſhall eat the Braſs.</l>
+               </sp>
+               <sp>
+                  <speaker>Time.</speaker>
+                  <l>
+                     <hi>Envy</hi> be gone, the gods thy Power reſtrain,</l>
+                  <l>Mad dogs may rage, which cannot break their chain.
+<stage>Exit Envy.</stage>
+                  </l>
+                  <l>From Both of Us, thou haſt redeem'd thy Name,
+<stage>To Pompey.</stage>
+                  </l>
+                  <l>And by thy Actions got immortal Fame.</l>
+                  <l>If ſuch thy Morning glory be, what when,</l>
+                  <l>Thou ſhalt arrive at thy Meridian?
+<stage>Exit Time.</stage>
+                  </l>
+               </sp>
+               <stage>All come down upon the Stage.</stage>
+               <stage>
+                  <hi>Enter</hi> Curio <hi>with Letters in his hand trim'd with Lawrel, and a Dart at his Girdle.</hi>
+               </stage>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>I do in order Sir to my command,
+<stage>Gives a Letter to a Conſul.</stage>
+                  </l>
+                  <l>Theſe letters humbly offer to your hand.</l>
+                  <l>This Letter is to You.—
+<stage>Gives it to a Senator.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Sen.</speaker>
+                  <l>— To Me, from whom?</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>This Sir, and that do both from <hi>Caeſar</hi> come.</l>
+               </sp>
+               <sp>
+                  <speaker>Conſul.</speaker>
+                  <l>
+                     <hi>Curio</hi> your Maſter dos too high aſpire,</l>
+                  <l>He thinks to force us ſure, to his deſire.</l>
+                  <l>But he miſtakes, firſt tell him, that he muſt</l>
+                  <l>Disband his Army, and the Senate truſt.</l>
+                  <l>Who would be Conſul, muſt not take the courſe,</l>
+                  <l>Of an ambitious man in Power, Force.</l>
+                  <l>He muſt lay down his Arms.—</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>— He thinks it fit,</l>
+                  <l>Since <hi>Pompey</hi>'s Army, that you his admit.</l>
+                  <l>Elſe he may juſtly think, you do deſign,</l>
+                  <l>To ſide with <hi>Pompey,</hi> and his Cauſe decline.</l>
+               </sp>
+               <sp>
+                  <speaker>2 <hi>Conſul.</hi>
+                  </speaker>
+                  <l>
+                     <hi>Curio</hi> not ſo, for though we were moſt ſtrong,</l>
+                  <l>We would not uſe our Power to do Wrong.</l>
+                  <l>We keep his Army to defend our Right,</l>
+                  <l>And to protect us from injurious Might.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>I wiſh you <hi>Pompey</hi>'s Army would disband.</l>
+               </sp>
+               <pb n="38" facs="tcp:56904:23"/>
+               <sp>
+                  <speaker>Pompey.</speaker>
+                  <l>That wiſh is high Preſumption Sir in you,</l>
+                  <l>Will you adviſe the Conſuls what to do.</l>
+                  <l>Wiſh that your Maſter would his Troops disband,</l>
+                  <l>By mine it is that we ſecure do ſtand.</l>
+                  <l>Which if the Conſuls ſhould disband, we may</l>
+                  <l>For ought I know become your Maſter's prey.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>If that this Plea be juſt, great Sir, then too</l>
+                  <l>My Maſter may ſuſpect the ſame from you.</l>
+               </sp>
+               <sp>
+                  <speaker>Pompey.</speaker>
+                  <l>'Tis fit, we <hi>Caeſar</hi>'s Pride controul in time,</l>
+                  <l>Leſt through Ambition he too high ſhould clime.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>Great <hi>Caeſar</hi> with your ſelf, takes it on truſt,</l>
+                  <l>All he attempts to make him great, is Juſt.</l>
+                  <stage>Curio <hi>takes</hi> Pompey <hi>aſide.</hi>
+                  </stage>
+                  <l>Can you tax him with pride, and think of late,</l>
+                  <l>How you combin'd to ſhare the Roman State?</l>
+                  <l>Who by ambition then was lead? can you,</l>
+                  <l>Charge him, when you your ſelf are guilty too?</l>
+                  <l>And whil'ſt from that deſign you thus retreat,</l>
+                  <l>I know you ſtudy means to grow more great.</l>
+                  <l>But don't his Ruine, as the Means, contrive,</l>
+                  <l>For can his fall, riſe to your glory give?</l>
+               </sp>
+               <sp>
+                  <speaker>Pompey.</speaker>
+                  <l>I'le hear no more. —</l>
+                  <l>The Conſuls have decreed, he ne're ſhall come</l>
+                  <l>In Arms, unleſs he force his way to <hi>Rome.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>Since 'tis deny'd, I promis'd to declare,</l>
+                  <l>What <hi>Caeſar</hi> did Command. <hi>A Civil Warr.</hi>
+                     <stage>Throws down his Dart.</stage>
+                  </l>
+                  <l>Great <hi>Caeſar</hi> is reſolv'd to take this courſe,</l>
+                  <l>What you deny him in, he means to force.</l>
+                  <l>The higheſt in the Heavens, who know events,</l>
+                  <l>Know that conſtrain'd I come from <hi>Caeſars</hi> Tents,</l>
+                  <l>As an unwilling Herald to proclaim,</l>
+                  <l>A War muſt be <hi>Rome's</hi> ruine, and her ſhame,</l>
+                  <l>A War which all true Romans muſt bemoan,</l>
+                  <l>And when our hands do wound, our hearts muſt groan.</l>
+               </sp>
+               <stage>
+                  <hi>Exit</hi> Curio.</stage>
+               <sp>
+                  <speaker>1 <hi>Conſul.</hi>
+                  </speaker>
+                  <l>The World is but a Tennis-Court, where Fate,</l>
+                  <l>Toſſes the men for Balls, and playes the State.</l>
+                  <pb n="39" facs="tcp:56904:23"/>
+                  <l>Bandy'd about, they riſe and do deſcend,</l>
+                  <l>Whoſe glories hazard oft their fatal end.</l>
+                  <l>Hath <hi>Caeſar</hi> by his Conqueſts made <hi>Rome</hi> great,</l>
+                  <l>That he at once in her, might's Wars repeat?</l>
+                  <l>Or that thoſe Kingdoms to her Empire lain,</l>
+                  <l>In fighting her, might be fought o're again?</l>
+                  <l>Or did he Nations to this end ſubdue,</l>
+                  <l>That all in her, might at one time accrue?</l>
+                  <l>No. We muſt ſtop his Pride, leſt we indure,</l>
+                  <l>What our delay, may put beyond our cure.</l>
+                  <l>Let's ſit in Council, and with ſpeed conclude,</l>
+                  <l>What courſe is fitteſt for to be purſu'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Pompey.</speaker>
+                  <l>Since you my Army did admit, I'le do,</l>
+                  <l>What honour and your ſafety bind me to.</l>
+                  <l>His fury I'le withſtand, and for <hi>Romes</hi> good,</l>
+                  <l>Like the kind <hi>Pelican,</hi> I'le ſpend my blood.</l>
+               </sp>
+               <stage>Enter a Meſſenger haſtily, a Perſpective in his hand.]</stage>
+               <sp>
+                  <speaker>Conſul.</speaker>
+                  <l>What is thy meſſage, that thou ſeem'ſt afraid?</l>
+               </sp>
+               <sp>
+                  <speaker>Meſſ.</speaker>
+                  <l>I fear great Sir, that we are all betray'd</l>
+                  <l>I through this glaſs did diſtant objects ſpye,</l>
+                  <l>When Lo an Army marched in mine eye.</l>
+                  <l>I ſtood a while, in which they drew ſo near,</l>
+                  <l>That Sir by this, I fear they'r almoſt here.</l>
+               </sp>
+               <stage>An Other Meſſenger haſtily.</stage>
+               <sp>
+                  <speaker>2 <hi>Meſ.</hi>
+                  </speaker>
+                  <l>On the <hi>Tarpean</hi> Hill I ſtood, which yields</l>
+                  <l>A fair proſpect to the Italian fields,</l>
+                  <l>Where <hi>Caeſar's</hi> Army march'd, and where it came,</l>
+                  <l>Towns ſtill burſt forth with a moſt diſmal flame.</l>
+                  <l>Horrour and Outcryes poſted through the Skye,</l>
+                  <l>Reſolve to conquer, or reſolve to dye.</l>
+               </sp>
+               <sp>
+                  <speaker>Conſ.</speaker>
+                  <l>To Arms. To Arms.—</l>
+               </sp>
+               <sp>
+                  <speaker>Pompey.</speaker>
+                  <l>Command that <hi>Crimber</hi> with his utmoſt force,</l>
+                  <l>Charge the right Wing, with my Italian horſe.</l>
+                  <pb n="40" facs="tcp:56904:24"/>
+                  <l>You the left Wing, You in the Rere fall on't,</l>
+                  <l>With my Theſſalian horſe, I'le charge the Front.</l>
+                  <l>If he be beat, Or by our Power be ſlain,</l>
+                  <l>
+                     <hi>Italia</hi> by his Death, her peace will gain,</l>
+                  <l>But if we loſe the fortune of this day,</l>
+                  <l>We next will fight him at <hi>Pharſalia.</hi>
+                  </l>
+                  <l>
+                     <hi>Caeſar</hi> beware, leaſt whil'ſt thou ſoar'ſt too high,</l>
+                  <l>I pull thy Towring Eagles from the Skie.
+<stage>Exeunt Omnes.</stage>
+                  </l>
+               </sp>
+               <stage>The Scene is the Grove.</stage>
+               <stage>Enter <g ref="char:V">Ʋ</g>xama. Solus.</stage>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>This is the fatal Place, to which Both tend,</l>
+                  <l>She for to meet her Lover; He his end.</l>
+                  <l>His Glaſs of life, or mine, is almoſt run,</l>
+                  <l>One of us two, ſets with this Evening Sun.</l>
+                  <l>Both can't enjoy; Loves individuum</l>
+                  <l>Makes it a Bleſſing, which belongs to one.</l>
+                  <l>Men ne're were partners yet to an Eſtate,</l>
+                  <l>Let him take all, who dos ſurvive his fate.</l>
+                  <l>The fire of Love like to the common fire,</l>
+                  <l>The fewel being gone, dos ſtrait expire;</l>
+                  <l>Or like ſight, which, Philoſophers do ſay,</l>
+                  <l>Would ceaſe to be, were objects took away.</l>
+                  <l>So that his death alone, I find can prove,</l>
+                  <l>The only means that's left to gain her Love.</l>
+                  <l>Die then; And teach all Lovers a new Art,</l>
+                  <l>That Love which wades through blood muſt reach the heart.</l>
+               </sp>
+               <stage>Kiſſes his Sword. Exit.</stage>
+               <trailer>Finis Actus Quarti.</trailer>
+            </div>
+            <div n="5" type="act">
+               <pb n="41" facs="tcp:56904:24"/>
+               <head>ACTUS V. SCENA PRIMA.</head>
+               <stage>The Scene is the ſame Grove.</stage>
+               <stage>Enter Oranges, Muſick following of him; he having a Paper in his hand, gives it to one of them.</stage>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>THE Song.—Goe place your ſelves within the <hi>Grove.</hi>
+                  </l>
+                  <l>This Evening we will dedicate to Love.</l>
+                  <l>This is the Sign. When I do ſtamp begin,</l>
+                  <l>Firſt Play a ſtrain or two, and after Sing.
+<stage>Stamps.</stage>
+                  </l>
+               </sp>
+               <stage>Exeunt as into the Grove.</stage>
+               <stage>One returns haſtily and ſpeaks.</stage>
+               <sp>
+                  <speaker>Muſick.</speaker>
+                  <l>An armed man lyes ſleeping on the ground,</l>
+                  <l>With a drawn Sword.—</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>— Has he receiv'd no wound?</l>
+               </sp>
+               <stage>Exit as into the Grove, he returns ſuddainly.</stage>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Things are arriv'd where I would wiſh, and now</l>
+                  <l>To Fortune more then to deſign I owe.</l>
+                  <l>His ſleep ſuggeſts a courſe I will purſue,</l>
+                  <l>Which he will blame me for, and thank me too.</l>
+                  <l>Sleep is deaths emblem, and it may be ſaid,</l>
+                  <l>Whil'ſt ſleep locks up our ſenſes we are dead.</l>
+                  <l>This of her Lover I'le report and ſay,</l>
+                  <l>That by his ſide his fatal Weapon lay.</l>
+                  <l>Perhaps ſhe may diſpair. I know, diſtreſs</l>
+                  <l>Gives greater reliſh unto happineſs.</l>
+                  <l>Bleſſings expected loſe much of their rate,</l>
+                  <l>Unlookt for when they come they've eſtimate.</l>
+                  <l>I by this means ſhall try her faith, and find,</l>
+                  <l>If death can change the tenure of her mind.</l>
+                  <l>Forgive me deareſt Maſter, what I do,</l>
+                  <l>Is but to try her conſtancy to you.</l>
+                  <pb n="42" facs="tcp:56904:25"/>
+                  <l>I'le tell her as I came I found him lye</l>
+                  <l>All gor'd, thus ſpoke, then wiſht me cloſe his eye.</l>
+                  <stage>Enter Selania and the aſſociate Lady, habited as before like Amazons: They ſtand undiſcovered.</stage>
+                  <l>Moſt holy Father if you chance to find</l>
+                  <l>A Virgin beauty, as if heavens combin'd</l>
+                  <l>And joyn'd with Nature for to make her fair,</l>
+                  <l>That with the Queen of Beauty might compare;</l>
+                  <l>For ſuch ſhe is, tell her that I was ſlain</l>
+                  <l>In ſeeking her, diſguiſed like a Swain,</l>
+                  <l>Say my expiring Soul did wait a while,</l>
+                  <l>For had ſhe come, ſhe'd cur'd me with a ſmile.</l>
+                  <l>Tell her, her beauty hath a double skill,</l>
+                  <l>Her ſmiles can keep alive, her frowns can kill.</l>
+                  <l>Say that <hi>Oranges</hi> dying did bequeath,</l>
+                  <l>All Legacies of Love in his laſt breath.</l>
+               </sp>
+               <stage>They appear.</stage>
+               <stage>Selania takes a Dart out of her Quiver.</stage>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>
+                     <hi>Selania</hi> will not long ſurvive thy death.</l>
+               </sp>
+               <stage>She is prevented by the other Lady.</stage>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Hold Madam, hold.—</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>— Do not ſo cruel prove,</l>
+                  <l>To hinder the laſt act of Conſtant love.</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>What you do call an act of love, would ſeem</l>
+                  <l>Rather deſpair in you, then love for him.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Why do you thus prolong my miſery,</l>
+                  <l>And ſave alive, one who reſolves to dye?</l>
+                  <l>You by this cruel kindneſs ſeem to ſtrive,</l>
+                  <l>My Soul being gone, to keep my corps alive.</l>
+                  <l>Suffer this Dart to pierce my breaſt, that by</l>
+                  <l>My death I may confirm my Conſtancy,</l>
+                  <l>For I have vow'd, why then is death deny'd?</l>
+                  <l>I'd not outlive that day on which he dy'd.</l>
+               </sp>
+               <pb n="43" facs="tcp:56904:25"/>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Madam!</l>
+                  <l>Let not diſtracted thoughts diſturb your Breſt,</l>
+                  <l>Nor that your vow, rule with ſuch intereſt.</l>
+                  <l>
+                     <hi>Oranges</hi> Lives, but is not lov'd by you.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>If he were here, he'd tell you 'twere not true.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Can you love one that yet you never knew?</l>
+                  <l>
+                     <hi>Oranges</hi> vows he knows you not.—</l>
+               </sp>
+               <sp>
+                  <speaker>Selania.</speaker>
+                  <l>—Can he</l>
+                  <l>Forget his ſolemn vows ſo ſoon, and me?</l>
+                  <l>Should this be true, 'twould more diſtract my mind,</l>
+                  <l>I'd rather have him dead then prove unkind.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Madam he loves you, but you love not him.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Then were I guilty of the higheſt ſin.</l>
+                  <l>My breaſt is kindled with more noble fire,</l>
+                  <l>Then pouder like to burn, and ſtrait expire.</l>
+                  <l>I love <hi>Oranges</hi> ſo, that for his ſake,</l>
+                  <l>This dangerous voyage I did undertake.</l>
+                  <l>And till I find him out, I'le ſpend mine Age,</l>
+                  <l>Either thus Arm'd, or elſe in Pilgrimage.</l>
+               </sp>
+               <stage>The Ladyes whiſper.</stage>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Her love' arriv'd at ſtrange perfection,</l>
+                  <l>
+                     <hi>Penelope</hi> her ſelf is now out-done.</l>
+                  <l>Since in ſuch conſtancy ſhe dos excel,</l>
+                  <l>Some Veſtal flame muſt be her Parallel.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>You ſay <hi>Oranges</hi> lives?—</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>—Madam 'tis true.</l>
+                  <l>But vows to dye, if not belov'd by you.</l>
+                  <l>I promis'd he ſhould meet you here, and bring</l>
+                  <l>His wounded heart to be your Offering.</l>
+                  <l>Which he now layes at th' Altars of your Eyes,</l>
+                  <l>Burnt by thoſe beams to be your Sacrifice.</l>
+                  <l>And though miſtaken bounty ſet me free,</l>
+                  <l>Reduce me not into captivity.</l>
+               </sp>
+               <stage>Pulls off the diſguiſe.</stage>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Are you then the <hi>Oranges</hi> that was freed.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Madam to me, that bleſſing was decreed.</l>
+                  <l>And if you love me not upon that ſcore,</l>
+                  <l>You make my bondage worſe then 'twas before.</l>
+                  <pb n="44" facs="tcp:56904:26"/>
+                  <l>Fetters till now, did but my body bind,</l>
+                  <l>But your perfections captivate my mind.</l>
+                  <l>Why weep you Madam? Let your Chimick love</l>
+                  <stage>She weeps.</stage>
+                  <l>Convert thoſe tears to Oyle, that they may prove</l>
+                  <l>Matter for ſome new flame, which may impart</l>
+                  <l>A warmth unto my poor diſpairing heart,</l>
+                  <l>Which in expectance of your ſentence lyes,</l>
+                  <l>Like a tame Lamb prepar'd for Sacrifice.</l>
+               </sp>
+               <sp>
+                  <speaker>Selania.</speaker>
+                  <l>You bring an Off'ring which I muſt refuſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>If I offend in ought, let love excuſe.</l>
+                  <l>I muſt confeſs what's offer'd at your ſhrine,</l>
+                  <l>Should like your ſelf have ſomething that's divine.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>It were unjuſt, to give another's due,</l>
+                  <l>Unto a ſtranger which I never knew.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Although a ſtranger, yet do not deſpiſe,</l>
+                  <l>The flame that you have kindled by your eyes.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>I will with tears endeavour to ſuppreſs,</l>
+                  <l>The flame you talk of, and to make it leſs.</l>
+               </sp>
+               <stage>She weeps.</stage>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Rivers of tears cannot ſuppreſs deſire,</l>
+                  <l>Nor Seas of Water ever quench Love's fire.</l>
+                  <l>Whil'ſt tears bedew your Cheeks, you do but more</l>
+                  <l>Inhaunce your beauty's luſtre on that ſcore:</l>
+                  <l>As Roſes ſprinkled by the drops of Dew,</l>
+                  <l>Do ſmell more fragrant, and more lovely ſhew.</l>
+                  <l>Fair Maid, too late you do begin to ſhroud</l>
+                  <l>Thoſe Twins of light under a watry Cloud.</l>
+                  <l>And I too late alas! forbear to look</l>
+                  <l>Upon thoſe Stars, when I am Planet ſtrook.</l>
+                  <l>Since I am call'd <hi>Oranges,</hi> let that name,</l>
+                  <l>Give me ſome title, to my Name-ſakes claim.</l>
+               </sp>
+               <sp>
+                  <speaker>Selania.</speaker>
+                  <l>If to the Name alone, my Love were due,</l>
+                  <l>Then I might Juſtly pay the debt to you.</l>
+                  <l>But 'tis a debt, I muſt to merit pay.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Preſumption paſt a pardon 'twere, to ſay</l>
+                  <l>Merit might reach you, or deſerts might ſtand,</l>
+                  <l>And Love your free gift ſaucily command.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>He who I love, may plead deſerts to me.</l>
+               </sp>
+               <sp>
+                  <speaker>Orag.</speaker>
+                  <l>If that in love, there might a merit be,</l>
+                  <pb n="45" facs="tcp:56904:26"/>
+                  <l>Or he who lov'd might but deſerving prove,</l>
+                  <l>I'd boldly then plead merit, ſince I love.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>My love to honour and to vertue's due.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>Though I won't ſay, I have 'um both, 'tis true,</l>
+                  <l>Yet I do love them both, in loving you,</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Sir, I am preingag'd, let that ſuffice.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>The Antidote's too late, to him who dyes.</l>
+                  <l>Too late we take the Taper from the flie,</l>
+                  <l>When he is burnt ſo, that he needs muſt dye.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Since I have thus far gone, I'le let you know</l>
+                  <l>His name, to whom my love and vows I owe.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>
+                     <hi>Oranges</hi> is it not?—</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>— He once did own</l>
+                  <l>That for his Name to keep himſelf unknown.</l>
+                  <l>His Name's <hi>Uxama,</hi> whom if I forget,</l>
+                  <l>I quit the Pearl to take the counterfeit.</l>
+               </sp>
+               <sp>
+                  <speaker>Orang.</speaker>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>xama</hi> ſaid you? ſure that generous gueſt,</l>
+                  <l>Only deſerves to live within your Breſt.</l>
+                  <l>Madam I quit my claim, and do implore</l>
+                  <l>Only your pardon, who begg'd love before.</l>
+                  <l>Durſt I preſume his Rival, Glow-worms might</l>
+                  <l>Rival the Sun, with all his beams of light.</l>
+                  <l>I knew his love long ſince, and conſtancy,</l>
+                  <l>Turtles no more ſhall now love's Emblems be.</l>
+                  <l>And as I know his faith, ſo now I prove</l>
+                  <l>Your conſtancy to him, and equal love.</l>
+                  <l>This moment puts a period to diſtreſs,</l>
+                  <l>Which once being paſt dos ſweeten happineſs.</l>
+               </sp>
+               <stage>He ſtamps.</stage>
+               <stage>The Muſick Playes within.</stage>
+               <stage>Enter the Lady Singing</stage>
+               <stage>Selania admires.</stage>
+               <lg>
+                  <head>THE SONG.</head>
+                  <l>
+                     <hi>COme Hymen, come, 'tis Thou alone,</hi>
+                  </l>
+                  <l>
+                     <hi>Of theſe two lovers can'ſt make one.</hi>
+                  </l>
+                  <l>
+                     <hi>Who one in heart already be,</hi>
+                  </l>
+                  <l>
+                     <hi>As when two flames unite we ſee.</hi>
+                  </l>
+               </lg>
+               <pb n="46" facs="tcp:56904:27"/>
+               <lg>
+                  <l>
+                     <hi>Thou lazy God make haſte away,</hi>
+                  </l>
+                  <l>
+                     <hi>And do not thus conſume the day,</hi>
+                  </l>
+                  <l>
+                     <hi>Which is beholding for ſupplyes,</hi>
+                  </l>
+                  <l>
+                     <hi>To the bright Planets of her Eyes.</hi>
+                  </l>
+               </lg>
+               <stage>
+                  <hi>Aſtragia</hi> advances with a Garland on her head and a Torch in her hand, as <hi>Hymen.</hi>
+               </stage>
+               <l>Hymen <hi>make haſte prepare the Church,</hi>
+               </l>
+               <l>
+                  <hi>And do not ſtay to light thy Torch.</hi>
+               </l>
+               <l>
+                  <hi>Make ready the Solemnities,</hi>
+               </l>
+               <l>
+                  <hi>And Light thy Taper at her Eyes.</hi>
+               </l>
+               <stage>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>xama</hi> advances, to whom <hi>Oranges</hi> bows, and <hi>Uxama</hi> looks earneſtly upon him.</stage>
+               <l>
+                  <hi>The Turtles on the Altars mourn,</hi>
+               </l>
+               <l>Hymen <hi>make haſte, or I'le be ſworn,</hi>
+               </l>
+               <l>
+                  <hi>Thou never ſhalt be thought Divine,</hi>
+               </l>
+               <l>
+                  <hi>Wee'l only Worſhip at her Shrine.</hi>
+               </l>
+               <stage>Uxama <hi>to his Servant.</hi>
+               </stage>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>
+                     <hi>Parmeno!</hi>
+                     <stage>The Ladyes whiſper.</stage>
+                  </l>
+                  <l>How cam'ſt thou here?—</l>
+               </sp>
+               <sp>
+                  <speaker>Parmeno.</speaker>
+                  <l>—I came Sir to provide,</l>
+                  <l>That you might meet your Miſtriſs like a Bride.</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>My Miſtreſs, ah! <hi>Parmeno</hi> ſhe is dead.</l>
+               </sp>
+               <sp>
+                  <speaker>Parmeno.</speaker>
+                  <l>They by her Ghoſt my fancy has been lead.</l>
+                  <stage>Parmeno <hi>goes to take off his upper Garment.</hi>
+                  </stage>
+                  <l>Sir give me leave to take off your diſguiſe,</l>
+                  <l>Then ſee if you are known unto thoſe Eyes.</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>What doſt thou mean <hi>Parmeno?</hi>—</l>
+               </sp>
+               <sp>
+                  <speaker>Parmeno.</speaker>
+                  <l>—Sir I pray</l>
+                  <l>Let me diſcloſe you to <hi>Selenia.</hi>
+                  </l>
+                  <stage>Selania <hi>gazes upon him.</hi>
+                  </stage>
+                  <l>
+                     <hi>Lady. Selania!</hi> Madam! caſt your eyes on me,</l>
+                  <l>Her eyes are fixt with ſome ſtrange Extaſie.</l>
+               </sp>
+               <pb n="47" facs="tcp:56904:27"/>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Yee Gods, as once ye helpt me in diſtreſs,</l>
+                  <l>So now ſupport me under happineſs.</l>
+                  <l>Such throngs of bleſſings, with <hi>Uxama</hi> come,</l>
+                  <l>That in my breaſt, they hardly can find room.</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>The Perſians don't with adoration run
+<stage>Kiſſes her hand.</stage>
+                  </l>
+                  <l>Greater then mine, to welcome in the Sun.</l>
+                  <l>Alas <hi>Selania,</hi> I have been miſlead,</l>
+                  <l>Report came to my ear, that you were dead.</l>
+                  <l>I had reſolv'd not to ſurvive your Fate,</l>
+                  <l>But then your ſight did new reſolves create.</l>
+                  <l>I ſtriv'd in vain my paſſion to ſubdue,</l>
+                  <l>And liv'd, becauſe ſhe ſeem'd to live in you.</l>
+                  <l>In this reſpect alone the diff'rence lay,</l>
+                  <l>I lov'd but knew not 'twas <hi>Selania.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>When from <hi>Sardinia</hi> you return'd to <hi>Spain,</hi>
+                  </l>
+                  <l>Report came to my car, that you were ſlain.</l>
+                  <l>I ſtrait imbarqu't for <hi>Spain,</hi> when I came there,</l>
+                  <l>All did affirm you were took Priſoner.</l>
+                  <l>Then in this garb I firmly did decree,</l>
+                  <l>To dye in the attempt, or ſet you free.</l>
+                  <l>I was miſguided by th' aſſumed name,</l>
+                  <l>For the report ſtill of <hi>Oranges</hi> came.</l>
+                  <l>It was my love that did ſuſpect your fate,</l>
+                  <l>Knowing that you, had us'd that name of late.</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>I was too blame. <hi>Parmeno</hi> why did you,</l>
+                  <l>Preſume to call your ſelf <hi>Oranges</hi> too?</l>
+               </sp>
+               <sp>
+                  <speaker>Parmeno.</speaker>
+                  <l>When I was bore in Fetters Sir from <hi>Spain,</hi>
+                  </l>
+                  <l>I did deſpair my freedom to obtain.</l>
+                  <l>Uſing <hi>Oranges</hi> name, the means I knew,</l>
+                  <l>You then to gain my freedom would purſue.</l>
+                  <l>Since you by mutual vows had both agreed,</l>
+                  <l>Either impriſon'd, ſhould at laſt be freed.</l>
+                  <l>If either Plot, or Ranſome, might but be</l>
+                  <l>A means, whereby, the Captive might be free.</l>
+                  <l>But then.—</l>
+               </sp>
+               <stage>A noiſe of Arms within.</stage>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>—A noiſe of Arms invades mine ear,</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>Your Vertues guard you, and you need not fear.</l>
+                  <pb n="48" facs="tcp:56904:28"/>
+                  <l>You may the god of War himſelf defie,</l>
+                  <l>He muſt reſign to Loves Artilery.</l>
+                  <stage>Ceaſeth.</stage>
+                  <stage>To the other Ladyes.</stage>
+                  <l>Where ere you look, you conquer by ſurpriſe,</l>
+                  <l>Conqueſt ſtill waits on thoſe victorious eyes.</l>
+                  <l>
+                     <hi>Caeſar</hi> did take his Motto ſure from you,</l>
+                  <l>Who where he came or lookt, did ſtill ſubdue.</l>
+                  <l>Thoſe glances like the Cephalian Dart wound ſtill,</l>
+                  <l>And Parthian like, whil'ſt you do flye, you kill,</l>
+                  <stage>A noiſe of Arms again.</stage>
+                  <l>
+                     <hi>Caeſar</hi> and <hi>Pompey</hi> are ingag'd I fear,</l>
+                  <l>And by the Noiſe, their Armyes ſhould be near.</l>
+                  <l>Pleaſe you wee'l walk awhile within the Grove,</l>
+                  <l>And there diſcourſe the Adventures of our Love.</l>
+               </sp>
+               <stage>
+                  <hi>Exeunt omnes.</hi> Uxama <hi>leading</hi> Selania <hi>as into the Grove.</hi>
+               </stage>
+               <stage>The Scene is the appearance of an Army.</stage>
+               <stage>
+                  <hi>The Armyes fight o're the Stage,</hi> Pompey <hi>retreats.</hi>
+               </stage>
+               <stage>
+                  <hi>Enter</hi> Pompey <hi>haſtily his Sword drawn.</hi>
+               </stage>
+               <sp>
+                  <speaker>Pomp.</speaker>
+                  <l>Have I in War, as many actions done,</l>
+                  <l>As that proud Eaſtern Conqueror the Sun,</l>
+                  <l>Of Fortune rather then of <hi>Macedon!</hi>
+                  </l>
+                  <l>The amazed World fill'd with aſtoniſhment,</l>
+                  <l>Made haughty Nations tremble, where I went!</l>
+                  <l>Took <hi>Mithridates</hi> King of <hi>Pontus!</hi> More</l>
+                  <l>The Iberians never conquer'd yet before.</l>
+                  <l>Beat the Albanians twice! to the great Sea,</l>
+                  <l>The Roman Empire ſpread in <hi>Lyhia!</hi>
+                  </l>
+                  <l>
+                     <hi>Spain</hi> to the <hi>Atlantick,</hi> and <hi>Albania,</hi>
+                  </l>
+                  <l>To th' utmoſt limits of the Hircanian Sea!</l>
+                  <l>Triumph'd ſo late, and am I beat ſo ſoon?</l>
+                  <l>A Prodigy the Sun ſhould ſet at Noon.</l>
+                  <l>Have I Victorious been abroad, that now,</l>
+                  <l>At home, I ſhould receive my overthrow?</l>
+               </sp>
+               <pb n="49" facs="tcp:56904:28"/>
+               <stage>Enter one of his Generals haſtily, his Sword drawn.</stage>
+               <sp>
+                  <speaker>Pompey.</speaker>
+                  <l>How ſtands our Army?—</l>
+               </sp>
+               <sp>
+                  <speaker>General.</speaker>
+                  <l>—Sir prepar'd to flye,</l>
+                  <l>If you think fit, or elſe reſolv'd to dye.</l>
+                  <l>The field is overſpread with ſlaughter'd men,</l>
+                  <l>And bloody conqueſt dos incline to them.</l>
+                  <l>Reſolve ſome courſe, before it be too late.</l>
+               </sp>
+               <sp>
+                  <speaker>Pompey.</speaker>
+                  <l>Wee'l head our men again, and try our fate.</l>
+               </sp>
+               <sp>
+                  <speaker>General.</speaker>
+                  <l>'Twere not couragious, but 'twere deſperate.</l>
+                  <l>Fly to your Army, which dos now remain</l>
+                  <l>Under your valiant Generals Sir in <hi>Spain.</hi>
+                  </l>
+                  <l>Fighting ſuch Odds, 'tis Juſt as if you came,</l>
+                  <l>And with one Bucket ſought to quench a flame.</l>
+                  <l>The game of War, ſhould not be play'd, nor ſet</l>
+                  <l>Upon the odds, but on an even bett.</l>
+               </sp>
+               <sp>
+                  <speaker>Pompey.</speaker>
+                  <l>True valour never thinks on odds, but knows,</l>
+                  <l>In War there is a chaunce and boldly throws.</l>
+                  <l>Let's to the field again, and ſomething do,</l>
+                  <l>Both for our honour, and our Countrey too.</l>
+               </sp>
+               <stage>Exeunt.</stage>
+               <stage>The Scene is the former Grove.</stage>
+               <stage>
+                  <hi>Enter</hi> Uxama <hi>leading</hi> Selania. Aſtragia <hi>and her Siſter.</hi> Parmeno <hi>ſervant to</hi> Uxama.</stage>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xama.</speaker>
+                  <l>Prithee go on <hi>Selania</hi> to relate,</l>
+                  <l>The manner of the Shipwrack, and your fate.</l>
+               </sp>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>The Winds began to roar, and Tempeſts now,</l>
+                  <l>Do plough deep furrows on the Oceans Brow.</l>
+                  <l>The diſmal Clouds do curtain up the Skies.</l>
+                  <l>And maſque the guides of Heaven from our Eyes.</l>
+                  <l>No light appears, but when the Thunder comes,</l>
+                  <l>And Midwifes Lightning from the Cloud dark Wombs.</l>
+                  <l>One in our Barque (as if Seas could not) tries</l>
+                  <l>To drown himſelf in Waters from his Eyes.</l>
+                  <pb n="50" facs="tcp:56904:29"/>
+                  <l>Such were his ſighing accents, that the Wind,</l>
+                  <l>Did ſeem a Calm, to th' Tempeſts in his Mind.</l>
+                  <l>We all expecting to be caſt away,</l>
+                  <l>The generous youth ſtood up, and thus did ſay.</l>
+                  <l>Vouchſafe to hear yee gods of <hi>Cicily,</hi>
+                  </l>
+                  <l>If to thoſe Vows, my lover conſtant be,</l>
+                  <l>Safely conduct this Barque unto the Shore,</l>
+                  <l>But if grown falſe, I humbly do implore</l>
+                  <l>That I may periſh here, and that the Waves</l>
+                  <l>May ſwallow me, into their liquid Graves.</l>
+                  <l>Juſt now out Ship was wrackt, and each one ſtrives,</l>
+                  <l>Upon the floating Planks to ſave their Lives,</l>
+                  <l>The Sea was calm'd and winds do blow no more,</l>
+                  <l>But what might ſerve, to drive the Planks on ſhore.</l>
+                  <l>This Lady and my Self had both deſign'd,</l>
+                  <l>For the Italian Coaſt, the Heavens prov'd kind,</l>
+                  <l>And to the wiſht for ſhore, our Plank conveigh,</l>
+                  <l>But ſure the youth did periſh in the Sea.</l>
+               </sp>
+               <sp>
+                  <speaker>Parmeno.</speaker>
+                  <l>Madam! I'm glad that after ſuch Diſtreſs,</l>
+                  <l>You are arriv'd at ſo much happineſs.</l>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <l>Once the companion of your harder fate,</l>
+                  <l>Your better fortune I congratulate.</l>
+                  <l>And as <hi>
+                        <g ref="char:V">Ʋ</g>xama</hi> dos reſtore your Joy,</l>
+                  <l>So now <hi>Aſtragia</hi> dos my grief deſtroy.</l>
+               </sp>
+               <sp>
+                  <speaker>Aſtrag.</speaker>
+                  <l>Before your Lovers, I your love prefer,</l>
+                  <l>If that by your example I do err,</l>
+                  <l>It is but Juſt you ſhould the fault excuſe.</l>
+                  <l>Since that his love, for yours, I do refuſe.</l>
+                  <l>And may you now in him as happy prove,</l>
+                  <stage>To Selania.</stage>
+                  <l>As dos <hi>Aſtragia</hi> in her Siſters Love.</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>xam.</speaker>
+                  <l>Things gain'd with eaſe, we do contemn; but priſe</l>
+                  <l>Thoſe bleſſings which from dangers do ariſe.</l>
+                  <l>Love like to Conqueſt, ſhould be pris'd the more,</l>
+                  <l>If that through dangers, it was ſought before,</l>
+                  <l>Since our adventures then were dangerous,</l>
+                  <l>Let it be ſaid none lov'd ſo well as us.</l>
+               </sp>
+               <stage>A noiſe of Arms.</stage>
+               <pb n="51" facs="tcp:56904:29"/>
+               <stage>Enter three or four Souldiers as flying.</stage>
+               <stage>Uxama <hi>and</hi> Parmeno <hi>draw.</hi>
+               </stage>
+               <sp>
+                  <speaker>Sould.</speaker>
+                  <l>— Plunder I'faith.</l>
+               </sp>
+               <sp>
+                  <speaker>Uxama.</speaker>
+                  <l>— Pray Ladyes do not fear,</l>
+                  <l>Theſe Cow-hearts flye the field to meet death here.</l>
+               </sp>
+               <stage>
+                  <hi>They fight.</hi> Uxama <hi>is taken, they ſieze the Ladyes.</hi>
+               </stage>
+               <sp>
+                  <speaker>Aſt.</speaker>
+                  <l>Search Ages paſt and Records for their fate,</l>
+                  <l>The fair have ſeldome proved fortunate.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Julius Caeſar, Valerius, Curio <hi>and Souldiers.</hi>
+               </stage>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>What Fugitives are theſe? that thus preſume</l>
+                  <l>To Captive others, when Death waits on them?</l>
+                  <stage>
+                     <hi>They are ſeized by</hi> Caeſar's <hi>Souldiers.</hi>
+                  </stage>
+                  <l>The Day was bloody, <hi>Curio! Pompey</hi> fought,</l>
+                  <l>And the Victorious Lawrels bravely ſought.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>He fought with Reſolution Sir 'tis true.</l>
+                  <l>But the Victorious Lawrels are your due.</l>
+               </sp>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>Conqueſt while in equal Ballance ſtood,</l>
+                  <l>And War took equal tribute from our blood.</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>The Scale of Conqueſt which ſtood ballanc'd thus,</l>
+                  <l>Being by your valour turn'd, inclin'd to us.</l>
+               </sp>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>What can withſtand your Power? when Eagles flye,</l>
+                  <l>All Birds of leſſer prey, muſt quit the Skie.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>I do ſuppoſe to <hi>Spain</hi> that <hi>Pompey</hi>'s fled,</l>
+                  <l>Since by <hi>Afranius</hi> there his Troops are led.</l>
+                  <l>With dreadful Enſigns I will march to <hi>Spain,</hi>
+                  </l>
+                  <l>And though his Armys joyn, the War maintain.</l>
+                  <l>The Gates of <hi>Janus</hi> now muſt open lye,</l>
+                  <l>And ne're ſhall ſhut till death dos cloſe his Eye.</l>
+               </sp>
+               <sp>
+                  <speaker>Valer.</speaker>
+                  <l>March on great <hi>Caeſar</hi> till your Arms controul,</l>
+                  <l>As far as th' Artick and Antartick Pole,</l>
+               </sp>
+               <sp>
+                  <speaker>Curio.</speaker>
+                  <l>And plant the Trophies of Victorious Arms,</l>
+                  <l>By Sea and Land where ever <hi>Titan</hi> warms.</l>
+               </sp>
+               <stage>
+                  <hi>They are going off,</hi> Selania <hi>to</hi> Caeſar.</stage>
+               <sp>
+                  <speaker>Selan.</speaker>
+                  <l>Vouchſafe for to accept our thanks as due,</l>
+                  <l>Since we all had our freedoms Sir from you.</l>
+                  <pb n="52" facs="tcp:56904:30"/>
+                  <l>Though we confeſs our Obligation's more,</l>
+                  <l>Then thanks can pay, and gratitude's too poor.</l>
+               </sp>
+               <sp>
+                  <speaker>Caeſar.</speaker>
+                  <l>In freeing you I have more honour gain'd,</l>
+                  <l>Then in the field, though conqueſt I obtain'd.</l>
+                  <l>To this dayes fortune I aſcribe far more,</l>
+                  <l>Than to thoſe many fields I fought before.</l>
+                  <l>Glory in this chiefly redounds to me,</l>
+                  <l>Not that I <hi>Pompey</hi> beat, but ſet you free.</l>
+               </sp>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <pb facs="tcp:56904:30"/>
+            <head>EPILOGUE.</head>
+            <lg>
+               <l>
+                  <hi>IF at a Feaſt, You ſhould not chance to lite</hi>
+               </l>
+               <l>
+                  <hi>Upon one Diſh, unto Your Appetite,</hi>
+               </l>
+               <l>
+                  <hi>You would condemn the Cook; juſt ſo You'l ſay,</hi>
+               </l>
+               <l>
+                  <hi>If not one Act prove good, throughout the Play.</hi>
+               </l>
+               <l>
+                  <hi>I Vow I did deſign to have good Cheer,</hi>
+               </l>
+               <l>
+                  <hi>Since You are like to pay for what is here,</hi>
+               </l>
+               <l>
+                  <hi>Which if rejected, or approv'd but Courſe,</hi>
+               </l>
+               <l>
+                  <hi>I'm ſure the</hi> Stationer <hi>will fare the worſe.</hi>
+               </l>
+               <l>
+                  <hi>But if the Entertainment You approve,</hi>
+               </l>
+               <l>
+                  <hi>He humbly beggs ſome token of Your Love.</hi>
+               </l>
+               <l>
+                  <hi>The Poet, if the Play no favour meet,</hi>
+               </l>
+               <l>
+                  <hi>Reſolves for to do Pennance, in each Sheet;</hi>
+               </l>
+               <l>
+                  <hi>And will preſume no more to be in Print,</hi>
+               </l>
+               <l>
+                  <hi>Since His firſt Coyn miſcarry'd in the Mint.</hi>
+               </l>
+               <l>
+                  <hi>Your Kind Acceptance may prevent My fate,</hi>
+               </l>
+               <l>
+                  <hi>'Tis the Kings Stamp, that gives the Mettal Rate.</hi>
+               </l>
+               <l>
+                  <hi>The Rate's inhaunc't, and 'tis made Currant too,</hi>
+               </l>
+               <l>
+                  <hi>So ſhall this Play, if it be ſtampt by You.</hi>
+               </l>
+            </lg>
+         </div>
+      </back>
+   </text>
+</TEI>
